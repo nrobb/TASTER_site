@@ -1,7 +1,7 @@
-name: "name"
-description: "description"
+name: "TASTER"
+description: "Training Attention Switching for Temper Episode Reduction"
 
-url: "http://localhost:4000"
+url: "http://nrobb.github.io/TASTER_site/"
 
 paginate: 10
 
