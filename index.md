@@ -1,5 +1,5 @@
 ---
-title: the title of the page
+title: TASTER
 layout: default
 ---
 
