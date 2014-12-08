@@ -5,6 +5,6 @@ layout: default
 
 # Hello World
 
-some text goes here.
+this is where the text goes...
 
-some more text goes here.
+...in paragraphs.
