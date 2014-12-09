@@ -3,4 +3,4 @@ title: TASTER
 layout: default
 ---
 
-![TASTER]({{ site.baseurl }}/images/main_text.png)
+![TASTER](http://nrobb.github.io/TASTER_site/images/main_text.png)
