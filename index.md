@@ -3,4 +3,4 @@ title: TASTER
 layout: default
 ---
 
-![TASTER](/images/main_text.png)
+![TASTER]({{ site.baseurl }}/images/main_text.png)
