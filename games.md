@@ -101,16 +101,31 @@ This game is free, and can be downloaded from either the Google Play Store (for 
 <p>
 This game is free, and can be downloaded from either the Google Play Store (for Android tablet) or Apple App Store (for iPhone / iPad) by following the relevant link. The object of the game is to perform various tasks to fix up the house, using simple touch controls. It is not always obvious what the current task is, and so your child / the person you care for may need to explore each scene (by tapping on various objects) in order to discover the current objective.
 </p>
+<h3>Amazing Alex Free</h3>
 <p>
-Amazing Alex Free - requires Android 2.1 or iOS 4.2. App Store age rating: 4+
+<a href="" target="_blank">Android</a> | 
+<a href="" target="_blank">iOS</a>
+</p>
+<p>Requires Android 2.1 or iOS 4.2. App Store age rating: 4+</p>
+<p>
 This game is free, and can be downloaded from either the Google Play Store (for Android tablet) or Apple App Store (for iPhone / iPad) by following the relevant link. The object of the game is to build a series of contraptions using everyday objects. Objects are moved by touching them and dragging them into position. This game begins with easy levels and helpful visual instructions, but your child / the person you care for may find that the game quickly becomes difficult.
 </p>
+<h3>Toca Builders</h3>
 <p>
-Toca Builders - requires Android 4.0.3 or iOS 5.0. App Store age rating: 4+
+<a href="" target="_blank">Android</a> | 
+<a href="" target="_blank">iOS</a>
+</p>
+<p>Requires Android 4.0.3 or iOS 5.0. App Store age rating: 4+</p>
+<p>
 This game costs £1.99. The game can be downloaded from either the Google Play Store (for Android tablet) or Apple App Store (for iPhone / iPad) by following the relevant link. The game does not have set objectives, but offers a variety of characters who can manipulate blocks in various ways, all with different controls. This game contains a parent’s section with detailed instructions.
 </p>
+<h3>Gravity Duck</h3>
 <p>
-Gravity Duck - requires Android 2.3 or iOS 4.3. App Store age rating: 4+
+<a href="" target="_blank">Android</a> | 
+<a href="" target="_blank">iOS</a>
+</p>
+<p>Rrequires Android 2.3 or iOS 4.3. App Store age rating: 4+</p>
+<p>
 This game costs between £0.54 and £0.69. It is possible to make in app purchases within the game. The game can be downloaded from either the Google Play Store (for Android tablet) or Apple App Store (for iPhone / iPad) by following the relevant link. The object of the each level is navigate the duck to the golden egg. The duck is controlled by the four directional buttons (“the D-pad”) in the bottom left corner of the screen. The A button in the bottom right corner of the screen changes the direction of gravity, so that the duck can walk on the walls or roof. This game contains written instructions.
 </p>
 </div>
