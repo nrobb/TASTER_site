@@ -5,27 +5,36 @@ layout: default
 <div align="left">
 <h3>Tealy and Orangey</h3>
 <p>
-<a href="http://onemorelevel.com/game/tealy_and_orangey" target="_blank">Play it here</a>
+<a href="http://onemorelevel.com/game/tealy_and_orangey" target="_blank">Play Tealy and Orangey</a>
 </p>
 <p>
 This game is free, and can be played in a browser by following the above link. The object of the game is to navigate both the teal and orange coloured balls into the chequered end zone. Both balls are controlled by the same set of controls: left and right arrow keys to move; space to jump. The game contains written instructions.
 </p>
 <h3>Multitask 2</h3>
 <p>
-<a href="http://armorgames.com/play/11152/multitask-2" target="_blank">Multitask 2</a>
+<a href="http://armorgames.com/play/11152/multitask-2" target="_blank">Play Multitask 2</a>
 </p>
 <p>
 This game is free, and can be played in a browser by following the above link. The object of the game is to perform a variety of different tasks simultaneously. Each time a new task is introduced, the game pauses and the controls for the new task are explained. The game contains written instructions.
 </p>
-<h3><a href="http://luxahoy.com" target="_blank">Lux Ahoy</a></h3>
+<h3>Lux Ahoy</h3>
+<p>
+<a href="http://luxahoy.com" target="_blank">Play Lux Ahoy</a>
+</p>
 <p>
 This game is free, and can be played in a browser by following the above link. The object of the game is to sink your opponent’s ship with your cannon. The player and computer take turns to make a single shot. The angle of each shot is controlled by the position of the mouse. Press the mouse button to charge your shot, and release to fire. The speed of the cannon ball is controlled by the length of time the mouse button is held for. This game contains some written instructions.
 </p>
-<h3><a href="http://play.famobi.com/ufo-run" target="_blank">URO Run</a></h3>
+<h3>UFO Run</h3>
+<p>
+<a href="http://play.famobi.com/ufo-run" target="_blank">Play UFO Run</a>
+</p>
 <p>
 This game is free, and can be played in a browser by following the above link. The object of the game is to collect as many stars as possible while avoiding the red spikes. Pressing and holding the mouse button or spacebar raises the alien, releasing the mouse button or spacebar cause the alien to fall. The alien continually moves right automatically.
 </p>
-<h3><a href="http://play.famobi.com/fit-it-quick" target="_blank">Fit it Quick</a></h3>
+<h3>>Fit it Quick</h3>
+<p>
+<a href="http://play.famobi.com/fit-it-quick" target="_blank">Play Fit it Quick</a>
+</p>
 <p>
 This game is free, and can be played in a browser by following the above link. The object of the game is to fit the coloured blocks into the correct positions. The blocks are moved by clicking and dragging them with the mouse. This game contains some written instructions.
 </p>
