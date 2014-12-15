@@ -72,7 +72,7 @@ This game is free, and can be downloaded from either the Google Play Store (for 
 </p>
 <p>Requires Android 2.2 or iOS 4.0. App Store age rating: 4+</p>
 <p>
-A limited version of this game can be downloaded for free. It is possible to buy the full game as an in app purchase. It is also possible to make other in app purchases. The game can be downloaded from either the Google Play Store (for Android tablet) or Apple App Store (for iPhone / iPad) by following the relevant link. The object of the game is to guide the character through the levels, collecting gears and performing various other tasks. The character is controlled with on screen buttons, which vary as the game progresses. This game contains written instructions. Your child / the person you care for may find this game difficult.
+A limited version of this game can be downloaded for free. It is possible to buy the full game as an in app purchase. It is also possible to make other in app purchases. The game can be downloaded from either the Google Play Store (for Android tablet) or Apple App Store (for iPhone / iPad) by following the relevant link. The object of the game is to guide the character through the levels, collecting gears and performing various other tasks. The character is controlled with on screen buttons, which vary as the game progresses. This game contains written instructions.
 </p>
 <h3>Shu’s Garden</h3>
 <p>
@@ -99,7 +99,7 @@ This game is free, and can be downloaded from either the Google Play Store (for 
 </p>
 <p>Requires Android 2.0.1 or iOS 4.0. App Store age rating: 4+</p>
 <p>
-This game is free, and can be downloaded from either the Google Play Store (for Android tablet) or Apple App Store (for iPhone / iPad) by following the relevant link. The object of the game is to perform various tasks to fix up the house, using simple touch controls. It is not always obvious what the current task is, and so your child / the person you care for may need to explore each scene (by tapping on various objects) in order to discover the current objective.
+This game is free, and can be downloaded from either the Google Play Store (for Android tablet) or Apple App Store (for iPhone / iPad) by following the relevant link. The object of the game is to perform various tasks to fix up the house, using simple touch controls.
 </p>
 <h3>Amazing Alex Free</h3>
 <p>
@@ -108,7 +108,7 @@ This game is free, and can be downloaded from either the Google Play Store (for 
 </p>
 <p>Requires Android 2.1 or iOS 4.2. App Store age rating: 4+</p>
 <p>
-This game is free, and can be downloaded from either the Google Play Store (for Android tablet) or Apple App Store (for iPhone / iPad) by following the relevant link. The object of the game is to build a series of contraptions using everyday objects. Objects are moved by touching them and dragging them into position. This game begins with easy levels and helpful visual instructions, but your child / the person you care for may find that the game quickly becomes difficult.
+This game is free, and can be downloaded from either the Google Play Store (for Android tablet) or Apple App Store (for iPhone / iPad) by following the relevant link. The object of the game is to build a series of contraptions using everyday objects. Objects are moved by touching them and dragging them into position.
 </p>
 <h3>Toca Builders</h3>
 <p>
