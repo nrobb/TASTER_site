@@ -19,12 +19,17 @@ This game is free, and can be played in a browser by following the above link. T
 <p>
 This game is free, and can be played in a browser by following the above link. The object of the game is to collect as many stars as possible while avoiding the red spikes. Pressing and holding the mouse button or spacebar raises the alien, releasing the mouse button or spacebar cause the alien to fall. The alien continually moves right automatically.
 </p>
+<h3><a href="http://play.famobi.com/fit-it-quick" target="_blank">Fit it Quick</a></h3>
 <p>
-Fit it Quick - http://play.famobi.com/fit-it-quick
 This game is free, and can be played in a browser by following the above link. The object of the game is to fit the coloured blocks into the correct positions. The blocks are moved by clicking and dragging them with the mouse. This game contains some written instructions.
 </p>
+<h3>Monument Valley</h3>
 <p>
-Monument Valley - requires Android 2.3.3 or iOS 6.0. App Store age rating: 4+
+<a href="https://play.google.com/store/apps/details?id=com.ustwo.monumentvalley&hl=en_GB" target="_blank">Android</a> | 
+<a href="https://itunes.apple.com/gb/app/monument-valley/id728293409k" target="_blank">iOS</a>
+</p>
+<p> Requires Android 2.3.3 or iOS 6.0. App Store age rating: 4+ </p>
+<p>
 This game costs £2.49, and can be downloaded from either the Google Play Store (for Android tablet) or Apple App Store (for iPhone / iPad) by following the relevant link. It is possible to buy additional levels as an in app purchase. The object of the game is to navigate the character through a series of 3D puzzles. The character’s movement is controlled by tapping at the location you wish to move to. Various objects can be rotated and dragged in order to make a path for the character. This game contains some written instructions.
 </p>
 <p>
