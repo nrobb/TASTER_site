@@ -26,7 +26,7 @@ This game is free, and can be played in a browser by following the above link. T
 <h3>Monument Valley</h3>
 <p>
 <a href="https://play.google.com/store/apps/details?id=com.ustwo.monumentvalley&hl=en_GB" target="_blank">Android</a> | 
-<a href="https://itunes.apple.com/gb/app/monument-valley/id728293409k" target="_blank">iOS</a>
+<a href="https://itunes.apple.com/gb/app/monument-valley/id728293409?mt=8" target="_blank">iOS</a>
 </p>
 <p> Requires Android 2.3.3 or iOS 6.0. App Store age rating: 4+ </p>
 <p>
