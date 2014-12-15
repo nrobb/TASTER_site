@@ -40,19 +40,25 @@ This game is free, and can be played in a browser by following the above link. T
 </p>
 <h3>Monument Valley</h3>
 <p>
-<a href="https://play.google.com/store/apps/details?id=com.ustwo.monumentvalley&hl=en_GB" target="_blank">Android</a> | 
-<a href="https://itunes.apple.com/gb/app/monument-valley/id728293409?mt=8" target="_blank">iOS</a>
+<a href="" target="_blank">Android</a> | 
+<a href="" target="_blank">iOS</a>
 </p>
-<p> Requires Android 2.3.3 or iOS 6.0. App Store age rating: 4+ </p>
+<p>Requires Android 2.3.3 or iOS 6.0. App Store age rating: 4+ </p>
 <p>
 This game costs £2.49, and can be downloaded from either the Google Play Store (for Android tablet) or Apple App Store (for iPhone / iPad) by following the relevant link. It is possible to buy additional levels as an in app purchase. The object of the game is to navigate the character through a series of 3D puzzles. The character’s movement is controlled by tapping at the location you wish to move to. Various objects can be rotated and dragged in order to make a path for the character. This game contains some written instructions.
 </p>
+<h3>99 Bricks Wizard Academy</h3>
+<a href="" target="_blank">Android</a> | 
+<a href="" target="_blank">iOS</a>
+<p>Requires Android 2.3.3 or iOS 6.0. App Store age rating: 4+
 <p>
-99 Bricks Wizard Academy - requires Android 2.3.3 or iOS 6.0. App Store age rating: 4+
 This game is costs £1.99 on Apple devices. The game is free on Android devices. It is possible to make in app purchases within the game. The game can be downloaded from either the Google Play Store (for Android tablet) or Apple App Store (for iPhone / iPad) by following the relevant link. The object of the game is to build a tower by positioning the coloured blocks. The blocks can be rotated by tapping anywhere on the screen and moved left or right by dragging in the relevant direction. The speed of the blocks can be increased by dragging the block downwards. The tower is finished when 3 blocks have fallen off the base. This game contains written instructions.
 </p>
+<h3>Mole Kart</h3>
+<p>Requires Android 2.2 or  iOS 4.1. App Store age rating: 4+<p>
+<a href="" target="_blank">Android</a> | 
+<a href="" target="_blank">iOS</a>
 <p>
-Mole Kart - requires Android 2.2 or  iOS 4.1. App Store age rating: 4+
 This game is free, and can be downloaded from either the Google Play Store (for Android tablet) or Apple App Store (for iPhone / iPad) by following the relevant link. The object of the game is to compete in a series of kart races. The kart can be steered left or right with on-screen buttons. Various power-ups can be collected, and these are also controlled with on-screen buttons. This game contains written instructions.
 </p>
 <p>
