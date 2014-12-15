@@ -31,7 +31,7 @@ This game is free, and can be played in a browser by following the above link. T
 <p>
 This game is free, and can be played in a browser by following the above link. The object of the game is to collect as many stars as possible while avoiding the red spikes. Pressing and holding the mouse button or spacebar raises the alien, releasing the mouse button or spacebar cause the alien to fall. The alien continually moves right automatically.
 </p>
-<h3>>Fit it Quick</h3>
+<h3>Fit it Quick</h3>
 <p>
 <a href="http://play.famobi.com/fit-it-quick" target="_blank">Play Fit it Quick</a>
 </p>
