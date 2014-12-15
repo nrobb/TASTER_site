@@ -74,7 +74,6 @@ This game is free, and can be downloaded from either the Google Play Store (for 
 <p>
 A limited version of this game can be downloaded for free. It is possible to buy the full game as an in app purchase. It is also possible to make other in app purchases. The game can be downloaded from either the Google Play Store (for Android tablet) or Apple App Store (for iPhone / iPad) by following the relevant link. The object of the game is to guide the character through the levels, collecting gears and performing various other tasks. The character is controlled with on screen buttons, which vary as the game progresses. This game contains written instructions. Your child / the person you care for may find this game difficult.
 </p>
-<p>
 <h3>Shu’s Garden</h3>
 <p>
 <a href="" target="_blank">Android</a> | 
@@ -84,12 +83,22 @@ A limited version of this game can be downloaded for free. It is possible to buy
 <p>
 This game is free on Android devices, and costs £0.69 on Apple devices. The game can be downloaded from either the Google Play Store (for Android tablet) or Apple App Store (for iPhone / iPad) by following the relevant link. The object of the game is to grow plants, by rolling the character over unnourished land, collecting and depositing seeds. This game contains a parent’s section, with detailed instructions.
 </p>
+<h3>LEGO Juniors Quest</h3>
 <p>
-LEGO Juniors Quest - requires Android 4.0 or iOS 6.0. App Store age rating: 4+
+<a href="" target="_blank">Android</a> | 
+<a href="" target="_blank">iOS</a>
+</p>
+<p>Requires Android 4.0 or iOS 6.0. App Store age rating: 4+</p>
+<p>
 This game is free, and can be downloaded from either the Google Play Store (for Android tablet) or Apple App Store (for iPhone / iPad) by following the relevant link. The game provides a structured story, with various gameplay objectives. Controls are explained visually, with no written instructions.
 </p>
+<h3>Dr. Panda’s Handyman</h3>
 <p>
-Dr. Panda’s Handyman - requires Android 2.0.1 or iOS 4.0. App Store age rating: 4+
+<a href="" target="_blank">Android</a> | 
+<a href="" target="_blank">iOS</a>
+</p>
+<p>Requires Android 2.0.1 or iOS 4.0. App Store age rating: 4+</p>
+<p>
 This game is free, and can be downloaded from either the Google Play Store (for Android tablet) or Apple App Store (for iPhone / iPad) by following the relevant link. The object of the game is to perform various tasks to fix up the house, using simple touch controls. It is not always obvious what the current task is, and so your child / the person you care for may need to explore each scene (by tapping on various objects) in order to discover the current objective.
 </p>
 <p>
