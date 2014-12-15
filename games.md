@@ -3,11 +3,17 @@ title: Games for Evalutaion
 layout: default
 ---
 <div align="left">
-<h3><a href="http://onemorelevel.com/game/tealy_and_orangey" target="_blank">Tealy and Orangey</a></h3>
+<h3>Tealy and Orangey</h3>
+<p>
+<a href="http://onemorelevel.com/game/tealy_and_orangey" target="_blank">Play it here</a>
+</p>
 <p>
 This game is free, and can be played in a browser by following the above link. The object of the game is to navigate both the teal and orange coloured balls into the chequered end zone. Both balls are controlled by the same set of controls: left and right arrow keys to move; space to jump. The game contains written instructions.
 </p>
-<h3><a href="http://armorgames.com/play/11152/multitask-2" target="_blank">Multitask 2</a></h3>
+<h3>Multitask 2</h3>
+<p>
+<a href="http://armorgames.com/play/11152/multitask-2" target="_blank">Multitask 2</a>
+</p>
 <p>
 This game is free, and can be played in a browser by following the above link. The object of the game is to perform a variety of different tasks simultaneously. Each time a new task is introduced, the game pauses and the controls for the new task are explained. The game contains written instructions.
 </p>
