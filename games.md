@@ -75,7 +75,13 @@ This game is free, and can be downloaded from either the Google Play Store (for 
 A limited version of this game can be downloaded for free. It is possible to buy the full game as an in app purchase. It is also possible to make other in app purchases. The game can be downloaded from either the Google Play Store (for Android tablet) or Apple App Store (for iPhone / iPad) by following the relevant link. The object of the game is to guide the character through the levels, collecting gears and performing various other tasks. The character is controlled with on screen buttons, which vary as the game progresses. This game contains written instructions. Your child / the person you care for may find this game difficult.
 </p>
 <p>
-Shu’s Garden - requires Android 4.0 or iOS 6.0. App Store age rating: 4+
+<h3>Shu’s Garden</h3>
+<p>
+<a href="" target="_blank">Android</a> | 
+<a href="" target="_blank">iOS</a>
+</p>
+<p>Requires Android 4.0 or iOS 6.0. App Store age rating: 4+</p>
+<p>
 This game is free on Android devices, and costs £0.69 on Apple devices. The game can be downloaded from either the Google Play Store (for Android tablet) or Apple App Store (for iPhone / iPad) by following the relevant link. The object of the game is to grow plants, by rolling the character over unnourished land, collecting and depositing seeds. This game contains a parent’s section, with detailed instructions.
 </p>
 <p>
