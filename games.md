@@ -10,7 +10,7 @@ layout: default
 </p>
 <p>Price: Free</p>
 <p>Difficulty: Medium - High</p>
-<div class="container" style="max-width: 420px; height: auto;"
+<div style="max-width: 420px; height: auto;"
 <!-- 4:3 aspect ratio -->
 <div class="embed-responsive embed-responsive-4by3">
   <iframe class="embed-responsive-item" src="//www.youtube.com/embed/nW34Ne3Xp-w"></iframe>
