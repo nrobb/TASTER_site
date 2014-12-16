@@ -20,7 +20,8 @@ layout: default
 <!-- Multiple Radios -->
 <div class="form-group">
   <label class="col-md-4 control-label" for="Tealy and Orangey">
-  <img src="{{ site.url }}/images/tealy-and-orangey.png" style="width: 150px;" title="Tealy and Orangey" alt="Tealy and Orangey">Tealy and Orangey
+  <img src="{{ site.url }}/images/tealy-and-orangey.png" style="width: 150px;" title="Tealy and Orangey" alt="Tealy and Orangey">
+  <p>Tealy and Orangey</p>
   </label>
   <div class="col-md-4">
   <div class="radio">
