@@ -20,7 +20,7 @@ layout: default
 <!-- Multiple Radios -->
 <div class="form-group">
   <label class="col-md-4 control-label" for="Tealy and Orangey">
-  <img src="http://www.timeforcake.com/images/uploads/blog/alone-and-confused.jpg" style="width: 75px;">
+  <img src="">
   </label>
   <div class="col-md-4">
   <div class="radio">
