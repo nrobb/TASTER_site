@@ -77,8 +77,8 @@ A limited version of this game can be downloaded for free. It is possible to buy
 </p>
 <h3>Shu’s Garden</h3>
 <p>
-<a href="" target="_blank">Android</a> | 
-<a href="" target="_blank">iOS</a>
+<a href="https://play.google.com/store/apps/details?id=ca.jasonrtbond.shusgarden" target="_blank">Android</a> | 
+<a href="https://itunes.apple.com/gb/app/shus-garden/id821684800?mt=8&uo=4" target="_blank">iOS</a>
 </p>
 <p>Requires Android 4.0 or iOS 6.0. App Store age rating: 4+</p>
 <p>
@@ -86,17 +86,17 @@ This game is free on Android devices, and costs £0.69 on Apple devices. The gam
 </p>
 <h3>LEGO Juniors Quest</h3>
 <p>
-<a href="" target="_blank">Android</a> | 
-<a href="" target="_blank">iOS</a>
+<a href="https://play.google.com/store/apps/details?id=com.lego.juniors.quest" target="_blank">Android</a> | 
+<a href="https://itunes.apple.com/gb/app/lego-juniors-quest/id845046214?mt=8&uo=4" target="_blank">iOS</a>
 </p>
 <p>Requires Android 4.0 or iOS 6.0. App Store age rating: 4+</p>
 <p>
 This game is free, and can be downloaded from either the Google Play Store (for Android tablet) or Apple App Store (for iPhone / iPad) by following the relevant link. The game provides a structured story, with various gameplay objectives. Controls are explained visually, with no written instructions.
 </p>
-<h3>Dr. Panda’s Handyman</h3>
+<h3>Dr. Panda’s Handyman - Free</h3>
 <p>
-<a href="" target="_blank">Android</a> | 
-<a href="" target="_blank">iOS</a>
+<a href="https://play.google.com/store/apps/details?id=com.tribeplay.pandahandymanlite" target="_blank">Android</a> | 
+<a href="https://itunes.apple.com/gb/app/dr.-pandas-handyman-free/id739573635?mt=8&uo=4" target="_blank">iOS</a>
 </p>
 <p>Requires Android 2.0.1 or iOS 4.0. App Store age rating: 4+</p>
 <p>
@@ -104,8 +104,8 @@ This game is free, and can be downloaded from either the Google Play Store (for 
 </p>
 <h3>Amazing Alex Free</h3>
 <p>
-<a href="" target="_blank">Android</a> | 
-<a href="" target="_blank">iOS</a>
+<a href="https://play.google.com/store/apps/details?id=com.rovio.amazingalex.trial" target="_blank">Android</a> | 
+<a href="https://itunes.apple.com/gb/app/amazing-alex-hd-free/id549769784?mt=8&uo=4" target="_blank">iOS</a>
 </p>
 <p>Requires Android 2.1 or iOS 4.2. App Store age rating: 4+</p>
 <p>
@@ -113,8 +113,8 @@ This game is free, and can be downloaded from either the Google Play Store (for 
 </p>
 <h3>Toca Builders</h3>
 <p>
-<a href="" target="_blank">Android</a> | 
-<a href="" target="_blank">iOS</a>
+<a href="https://play.google.com/store/apps/details?id=com.tocaboca.tocabuild" target="_blank">Android</a> | 
+<a href="https://itunes.apple.com/gb/app/toca-builders/id652077009?mt=8&uo=4" target="_blank">iOS</a>
 </p>
 <p>Requires Android 4.0.3 or iOS 5.0. App Store age rating: 4+</p>
 <p>
@@ -122,8 +122,8 @@ This game costs £1.99. The game can be downloaded from either the Google Play S
 </p>
 <h3>Gravity Duck</h3>
 <p>
-<a href="" target="_blank">Android</a> | 
-<a href="" target="_blank">iOS</a>
+<a href="https://play.google.com/store/apps/details?id=com.noodlecake.gravityduck" target="_blank">Android</a> | 
+<a href="https://itunes.apple.com/gb/app/gravity.duck/id599272198?mt=8&uo=4" target="_blank">iOS</a>
 </p>
 <p>Rrequires Android 2.3 or iOS 4.3. App Store age rating: 4+</p>
 <p>
