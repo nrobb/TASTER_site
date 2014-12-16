@@ -59,8 +59,8 @@ This game is costs £1.99 on Apple devices. The game is free on Android devices.
 </p>
 <h3>Mole Kart</h3>
 <p>
-<a href="" target="_blank">Android</a> | 
-<a href="" target="_blank">iOS</a>
+<a href="https://play.google.com/store/apps/details?id=com.droidhen.taomee.molekart" target="_blank">Android</a> | 
+<a href="https://itunes.apple.com/gb/app/mole-kart-i/id522579018?mt=8&uo=4" target="_blank">iOS</a>
 </p>
 <p>Requires Android 2.2 or  iOS 4.1. App Store age rating: 4+</p>
 <p>
@@ -68,8 +68,8 @@ This game is free, and can be downloaded from either the Google Play Store (for 
 </p>
 <h3>Cordy 2</h3>
 <p>
-<a href="" target="_blank">Android</a> | 
-<a href="" target="_blank">iOS</a>
+<a href="https://play.google.com/store/apps/details?id=com.silvertree.cordy2" target="_blank">Android</a> | 
+<a href="https://itunes.apple.com/gb/app/cordy-2/id550378113?mt=8&uo=4" target="_blank">iOS</a>
 </p>
 <p>Requires Android 2.2 or iOS 4.0. App Store age rating: 4+</p>
 <p>
