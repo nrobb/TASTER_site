@@ -19,8 +19,9 @@ layout: default
 
 <!-- Multiple Radios -->
 <div class="form-group">
-  <label class="col-md-4 control-label" for="Tealy and Orangey">Tealy and Orangey</label>
+  <label class="col-md-4 control-label" for="Tealy and Orangey">Tealy and Orangey
   <img src="http://www.timeforcake.com/images/uploads/blog/alone-and-confused.jpg" style="width: 100px;">
+  </label>
   <div class="col-md-4">
   <div class="radio">
     <label for="Tealy and Orangey-0">
