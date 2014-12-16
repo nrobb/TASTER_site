@@ -26,7 +26,7 @@ layout: default
   <div class="col-md-4">
   <div class="radio">
     <label for="Tealy and Orangey-0">
-      <input type="radio" name="Tealy and Orangey" id="Tealy and Orangey-0" value="I didn't understand this game at all" checked="checked">
+      <input type="radio" name="Tealy and Orangey" id="Tealy and Orangey-0" value="I didn't understand this game at all" >
       I didn't understand this game at all
     </label>
 	</div>
@@ -54,7 +54,7 @@ layout: default
   <div class="col-md-4">
   <div class="radio">
     <label for="Multitask 2-0">
-      <input type="radio" name="Multitask 2" id="Multitask 2-0" value="I didn't understand this game at all" checked="checked">
+      <input type="radio" name="Multitask 2" id="Multitask 2-0" value="I didn't understand this game at all" >
       I didn't understand this game at all
     </label>
 	</div>
@@ -82,7 +82,7 @@ layout: default
   <div class="col-md-4">
   <div class="radio">
     <label for="Lux Ahoy-0">
-      <input type="radio" name="Lux Ahoy" id="Lux Ahoy-0" value="I didn't understand this game at all" checked="checked">
+      <input type="radio" name="Lux Ahoy" id="Lux Ahoy-0" value="I didn't understand this game at all" >
       I didn't understand this game at all
     </label>
 	</div>
@@ -110,7 +110,7 @@ layout: default
   <div class="col-md-4">
   <div class="radio">
     <label for="UFO Run-0">
-      <input type="radio" name="UFO Run" id="UFO Run-0" value="I didn't understand this game at all" checked="checked">
+      <input type="radio" name="UFO Run" id="UFO Run-0" value="I didn't understand this game at all" >
       I didn't understand this game at all
     </label>
 	</div>
@@ -138,7 +138,7 @@ layout: default
   <div class="col-md-4">
   <div class="radio">
     <label for="Fit it Quick-0">
-      <input type="radio" name="Fit it Quick" id="Fit it Quick-0" value="I didn't understand this game at all" checked="checked">
+      <input type="radio" name="Fit it Quick" id="Fit it Quick-0" value="I didn't understand this game at all" >
       I didn't understand this game at all
     </label>
 	</div>
@@ -166,7 +166,7 @@ layout: default
   <div class="col-md-4">
   <div class="radio">
     <label for="Monument Valley-0">
-      <input type="radio" name="Monument Valley" id="Monument Valley-0" value="I didn't understand this game at all" checked="checked">
+      <input type="radio" name="Monument Valley" id="Monument Valley-0" value="I didn't understand this game at all" >
       I didn't understand this game at all
     </label>
 	</div>
@@ -194,7 +194,7 @@ layout: default
   <div class="col-md-4">
   <div class="radio">
     <label for="99 Bricks Wizard Academy-0">
-      <input type="radio" name="99 Bricks Wizard Academy" id="99 Bricks Wizard Academy-0" value="I didn't understand this game at all" checked="checked">
+      <input type="radio" name="99 Bricks Wizard Academy" id="99 Bricks Wizard Academy-0" value="I didn't understand this game at all" >
       I didn't understand this game at all
     </label>
 	</div>
@@ -222,7 +222,7 @@ layout: default
   <div class="col-md-4">
   <div class="radio">
     <label for="Mole Kart-0">
-      <input type="radio" name="Mole Kart" id="Mole Kart-0" value="I didn't understand this game at all" checked="checked">
+      <input type="radio" name="Mole Kart" id="Mole Kart-0" value="I didn't understand this game at all" >
       I didn't understand this game at all
     </label>
 	</div>
@@ -250,7 +250,7 @@ layout: default
   <div class="col-md-4">
   <div class="radio">
     <label for="Cordy 2-0">
-      <input type="radio" name="Cordy 2" id="Cordy 2-0" value="I didn't understand this game at all" checked="checked">
+      <input type="radio" name="Cordy 2" id="Cordy 2-0" value="I didn't understand this game at all" >
       I didn't understand this game at all
     </label>
 	</div>
@@ -278,7 +278,7 @@ layout: default
   <div class="col-md-4">
   <div class="radio">
     <label for="Shu's Garden-0">
-      <input type="radio" name="Shu's Garden" id="Shu's Garden-0" value="I didn't understand this game at all" checked="checked">
+      <input type="radio" name="Shu's Garden" id="Shu's Garden-0" value="I didn't understand this game at all" >
       I didn't understand this game at all
     </label>
 	</div>
@@ -306,7 +306,7 @@ layout: default
   <div class="col-md-4">
   <div class="radio">
     <label for="LEGO Juniors Quest-0">
-      <input type="radio" name="LEGO Juniors Quest" id="LEGO Juniors Quest-0" value="I didn't understand this game at all" checked="checked">
+      <input type="radio" name="LEGO Juniors Quest" id="LEGO Juniors Quest-0" value="I didn't understand this game at all" >
       I didn't understand this game at all
     </label>
 	</div>
@@ -334,7 +334,7 @@ layout: default
   <div class="col-md-4">
   <div class="radio">
     <label for="Dr. Panda's Handyman - Free-0">
-      <input type="radio" name="Dr. Panda's Handyman - Free" id="Dr. Panda's Handyman - Free-0" value="I didn't understand this game at all" checked="checked">
+      <input type="radio" name="Dr. Panda's Handyman - Free" id="Dr. Panda's Handyman - Free-0" value="I didn't understand this game at all" >
       I didn't understand this game at all
     </label>
 	</div>
@@ -362,7 +362,7 @@ layout: default
   <div class="col-md-4">
   <div class="radio">
     <label for="Amazing Alex Free-0">
-      <input type="radio" name="Amazing Alex Free" id="Amazing Alex Free-0" value="I didn't understand this game at all" checked="checked">
+      <input type="radio" name="Amazing Alex Free" id="Amazing Alex Free-0" value="I didn't understand this game at all" >
       I didn't understand this game at all
     </label>
 	</div>
@@ -390,7 +390,7 @@ layout: default
   <div class="col-md-4">
   <div class="radio">
     <label for="Toca Builders-0">
-      <input type="radio" name="Toca Builders" id="Toca Builders-0" value="I didn't understand this game at all" checked="checked">
+      <input type="radio" name="Toca Builders" id="Toca Builders-0" value="I didn't understand this game at all" >
       I didn't understand this game at all
     </label>
 	</div>
@@ -418,7 +418,7 @@ layout: default
   <div class="col-md-4">
   <div class="radio">
     <label for="Gravity Duck-0">
-      <input type="radio" name="Gravity Duck" id="Gravity Duck-0" value="I didn't understand this game at all" checked="checked">
+      <input type="radio" name="Gravity Duck" id="Gravity Duck-0" value="I didn't understand this game at all" >
       I didn't understand this game at all
     </label>
 	</div>
