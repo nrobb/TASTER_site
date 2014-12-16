@@ -9,7 +9,7 @@ layout: default
 <h3>The TASTER project is based at <a href="http://www.qub.ac.uk/schools/psy" target="_blank">Queen's University Belfast</a>, and is funded by the <a href="http://www.fpwr.org" target="_blank">Foundation for Prader-Willi Research</a>.</h3>
 <h3>If you are the parent or carer of someone with PWS and would like to take part in our research, the video below provides more information.</h3>
 </div>
-<div class="container" style="max-width: 700px; height: auto;"
+<div style="max-width: 700px; height: auto;"
 <!-- 4:3 aspect ratio -->
 <div class="embed-responsive embed-responsive-4by3">
   <iframe class="embed-responsive-item" src="//www.youtube.com/embed/oRjY2XGacNA"></iframe>
