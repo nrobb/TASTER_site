@@ -26,19 +26,19 @@ layout: default
   <div class="col-md-4">
   <div class="radio">
     <label for="Tealy and Orangey-0">
-      <input type="radio" name="Tealy and Orangey" id="Tealy and Orangey-0" value="I didn't understand this game at all" >
+      <input type="radio" name="Tealy and Orangey" id="Tealy and Orangey-0" value="I didn't understand this game at all" required="">
       I didn't understand this game at all
     </label>
 	</div>
   <div class="radio">
     <label for="Tealy and Orangey-1">
-      <input type="radio" name="Tealy and Orangey" id="Tealy and Orangey-1" value="I understood this game a little">
+      <input type="radio" name="Tealy and Orangey" id="Tealy and Orangey-1" value="I understood this game a little" required="">
       I understood this game a little
     </label>
 	</div>
   <div class="radio">
     <label for="Tealy and Orangey-2">
-      <input type="radio" name="Tealy and Orangey" id="Tealy and Orangey-2" value="I understood this game well">
+      <input type="radio" name="Tealy and Orangey" id="Tealy and Orangey-2" value="I understood this game well" required="">
       I understood this game well
     </label>
 	</div>
