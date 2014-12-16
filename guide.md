@@ -4,9 +4,9 @@ layout: default
 ---
 <div>
 <h1>Guide for Participants</h1>
-<h3>To help us design our game, we'd like your child / the person you care for to play a selection of games and tell us what they think of them. The information on this page is for parents / legal guardians.</h3>
+<h3>To help us design our game, we'd like your child / the person you care for to play a selection of games over a period of two weeks, and tell us what they think of them. The information on this page is for parents / legal guardians.</h3>
 <h3></h3>
-<h3>At the start of the two week period.</h3>
+<h3>At the start of the two week period:</h3>
 <ol>
 <li>You can see the full list of games, along with a description of each game and a video, <a href="{{site.url}}/games">here</a>. Read about each game and watch the video. If there are any games that you don't want your child to play, then you don't have to consider those games any further.</li>
 <li>For each game that you are happy for your child to play, follow this process:
@@ -21,7 +21,7 @@ layout: default
 <li>At this point you can explain each game further, so that your child fully understands how to play the game.</li>
 </li>
 </ol>
-<h3>During the two week period.</h3>
+<h3>During the two week period:</h3>
 <ol>
 <li>Give your child free access to all the games that you are happy for them to play.</li>
 <li>At the end of each day, you and your child should complete this form.</li>
