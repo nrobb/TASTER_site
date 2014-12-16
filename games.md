@@ -10,9 +10,7 @@ layout: default
 </p>
 <p>Price: Free</p>
 <p>Difficulty: Medium - High</p>
-<div>
-  <iframe width="420" height="315" src="//www.youtube.com/embed/nW34Ne3Xp-w" frameborder="0"></iframe>
-</div>
+<iframe width="420" height="315" src="//www.youtube.com/embed/nW34Ne3Xp-w" frameborder="0"></iframe>
 <p>
 This game is free, and can be played in a browser by following the above link. The object of the game is to navigate both the teal and orange coloured balls into the chequered end zone. Both balls are controlled by the same set of controls: left and right arrow keys to move; space to jump. The game contains written instructions.
 </p>
@@ -22,6 +20,7 @@ This game is free, and can be played in a browser by following the above link. T
 </p>
 <p>Price: Free</p>
 <p>Difficulty: High</p>
+<iframe width="420" height="315" src="//www.youtube.com/embed/zR6S4qPEdmI" frameborder="0" allowfullscreen></iframe>
 <p>
 This game is free, and can be played in a browser by following the above link. The object of the game is to perform a variety of different tasks simultaneously. Each time a new task is introduced, the game pauses and the controls for the new task are explained. The game contains written instructions.
 </p>
