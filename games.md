@@ -25,7 +25,12 @@ This game is free, and can be played in a browser by following the above link. T
 </p>
 <p>Price: Free</p>
 <p>Difficulty: High</p>
-<iframe width="420" height="315" src="//www.youtube.com/embed/zR6S4qPEdmI" frameborder="0" allowfullscreen></iframe>
+<div class="container" style="max-width: 420px; height: auto;"
+<!-- 4:3 aspect ratio -->
+<div class="embed-responsive embed-responsive-4by3">
+  <iframe class="embed-responsive-item" src="//www.youtube.com/embed/zR6S4qPEdmI"></iframe>
+</div>
+</div>
 <p>
 This game is free, and can be played in a browser by following the above link. The object of the game is to perform a variety of different tasks simultaneously. Each time a new task is introduced, the game pauses and the controls for the new task are explained. The game contains written instructions.
 </p>
@@ -35,7 +40,12 @@ This game is free, and can be played in a browser by following the above link. T
 </p>
 <p>Price: Free</p>
 <p>Difficulty: Low - Medium</p>
-<iframe width="420" height="315" src="//www.youtube.com/embed/S6vwCHVrS8Q" frameborder="0" allowfullscreen></iframe>
+<div class="container" style="max-width: 420px; height: auto;"
+<!-- 4:3 aspect ratio -->
+<div class="embed-responsive embed-responsive-4by3">
+  <iframe class="embed-responsive-item" src="//www.youtube.com/embed/S6vwCHVrS8Q"></iframe>
+</div>
+</div>
 <p>
 This game is free, and can be played in a browser by following the above link. The object of the game is to sink your opponent’s ship with your cannon. The player and computer take turns to make a single shot. The angle of each shot is controlled by the position of the mouse. Press the mouse button to charge your shot, and release to fire. The speed of the cannon ball is controlled by the length of time the mouse button is held for. This game contains some written instructions.
 </p>
@@ -45,7 +55,12 @@ This game is free, and can be played in a browser by following the above link. T
 </p>
 <p>Price: Free</p>
 <p>Difficulty: Low - Medium</p>
-<iframe width="420" height="315" src="//www.youtube.com/embed/kwTV8DET3Pc" frameborder="0" allowfullscreen></iframe>
+<div class="container" style="max-width: 420px; height: auto;"
+<!-- 4:3 aspect ratio -->
+<div class="embed-responsive embed-responsive-4by3">
+  <iframe class="embed-responsive-item" src="//www.youtube.com/embed/kwTV8DET3Pc"></iframe>
+</div>
+</div>
 <p>
 This game is free, and can be played in a browser by following the above link. The object of the game is to collect as many stars as possible while avoiding the red spikes. Pressing and holding the mouse button or spacebar raises the alien, releasing the mouse button or spacebar cause the alien to fall. The alien continually moves right automatically.
 </p>
@@ -55,7 +70,12 @@ This game is free, and can be played in a browser by following the above link. T
 </p>
 <p>Price: Free</p>
 <p>Difficulty: Low - Medium</p>
-<iframe width="420" height="315" src="//www.youtube.com/embed/kfGY5MWZKmI" frameborder="0" allowfullscreen></iframe>
+<div class="container" style="max-width: 420px; height: auto;"
+<!-- 4:3 aspect ratio -->
+<div class="embed-responsive embed-responsive-4by3">
+  <iframe class="embed-responsive-item" src="//www.youtube.com/embed/kfGY5MWZKmI"></iframe>
+</div>
+</div>
 <p>
 This game is free, and can be played in a browser by following the above link. The object of the game is to fit the coloured blocks into the correct positions. The blocks are moved by clicking and dragging them with the mouse. This game contains some written instructions.
 </p>
@@ -67,7 +87,12 @@ This game is free, and can be played in a browser by following the above link. T
 <p>Price: £2.49</p>
 <p>Difficulty: Medium</p>
 <p>Requires Android 2.3.3 or iOS 6.0. App Store age rating: 4+ </p>
-<iframe width="560" height="315" src="//www.youtube.com/embed/wC1jHHF_Wjo" frameborder="0" allowfullscreen></iframe>
+<div class="container" style="max-width: 560px; height: auto;"
+<!-- 4:3 aspect ratio -->
+<div class="embed-responsive embed-responsive-4by3">
+  <iframe class="embed-responsive-item" src="//www.youtube.com/embed/wC1jHHF_Wjo"></iframe>
+</div>
+</div>
 <p>
 This game costs £2.49, and can be downloaded from either the Google Play Store (for Android tablet) or Apple App Store (for iPhone / iPad) by following the relevant link. It is possible to buy additional levels as an in app purchase. The object of the game is to navigate the character through a series of 3D puzzles. The character’s movement is controlled by tapping at the location you wish to move to. Various objects can be rotated and dragged in order to make a path for the character. This game contains some written instructions.
 </p>
@@ -79,7 +104,12 @@ This game costs £2.49, and can be downloaded from either the Google Play Store 
 <p>Price: Free - £1.99</p>
 <p>Difficulty: Medium</p>
 <p>Requires Android 2.3.3 or iOS 6.0. App Store age rating: 4+</p>
-<iframe width="560" height="315" src="//www.youtube.com/embed/DeFbfxKmTwU" frameborder="0" allowfullscreen></iframe>
+<div class="container" style="max-width: 560px; height: auto;"
+<!-- 4:3 aspect ratio -->
+<div class="embed-responsive embed-responsive-4by3">
+  <iframe class="embed-responsive-item" src="//www.youtube.com/embed/DeFbfxKmTwU"></iframe>
+</div>
+</div>
 <p>
 This game is costs £1.99 on Apple devices. The game is free on Android devices. It is possible to make in app purchases within the game. The game can be downloaded from either the Google Play Store (for Android tablet) or Apple App Store (for iPhone / iPad) by following the relevant link. The object of the game is to build a tower by positioning the coloured blocks. The blocks can be rotated by tapping anywhere on the screen and moved left or right by dragging in the relevant direction. The speed of the blocks can be increased by dragging the block downwards. The tower is finished when 3 blocks have fallen off the base. This game contains written instructions.
 </p>
