@@ -16,7 +16,7 @@ layout: default
 <li>Observe your child using the game for a brief period (less than 5 minutes).</li>
 <li>For each game, make a note of how well your child understands what they are supposed to do in the game (Doesn't understand at all / Understands a little / Understands well). You can show your child this image, to help them decide.</li>
 </ul>
-<li>When you have completed this process for all the games, complete this form.</li>
+<li>When you have completed this process for all the games, complete the <a href="{{site.url}}/initialComprehensionForm">Initial Comprehension Form</a>.</li>
 <li>At this point you can explain each game further, so that your child fully understands how to play the game.</li>
 </li>
 </ol>
