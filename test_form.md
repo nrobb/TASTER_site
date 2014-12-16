@@ -2,7 +2,7 @@
 title: test form
 layout: default
 ---
-<div align="left">
+<div>
 <h2>Send e-mail to someone@example.com:</h2>
 <form action="MAILTO:someone@example.com" method="post" enctype="text/plain">
 Name:<br>
@@ -11,7 +11,7 @@ E-mail:<br>
 <input type="text" name="mail" value="your email"><br>
 Comment:<br>
 <input type="text" name="comment" value="your comment" size="50"><br><br>
-<input type="submit" value="Send">
+<input type="submit" value="Submit">
 <input type="reset" value="Reset">
 </form>
 </div>
