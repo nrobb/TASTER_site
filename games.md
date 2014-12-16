@@ -2,8 +2,8 @@
 title: Games for Evalutaion
 layout: default
 ---
-<div align="left">
-<h2>To help us develop a great game, we're involving players in the design phase. A selection of children will play the following games, then we'll ask them some questions about their preferences. This will help us determine what features we should include in our own game.</h2>
+<div>
+<h2>To help us develop a great game, we're involving players in the design process. A selection of children will play the following games, then we'll ask them some questions about their preferences. This will help us determine what features we should include in our own game.</h2>
 <h3>Tealy and Orangey</h3>
 <p>
 <a href="http://onemorelevel.com/game/tealy_and_orangey" target="_blank">Play Tealy and Orangey</a>
