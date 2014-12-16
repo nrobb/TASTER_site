@@ -20,7 +20,7 @@ layout: default
 <!-- Multiple Radios -->
 <div class="form-group">
   <label class="col-md-4 control-label" for="Tealy and Orangey">
-  <img src="http://stockfresh.com/files/k/kakigori/m/28/1499758_stock-photo-confused-kid.jpg" style="width: 100px;" title="Tealy and Orangey">
+  <img src="" style="width: 100px;" title="Tealy and Orangey">
   </label>
   <div class="col-md-4">
   <div class="radio">
