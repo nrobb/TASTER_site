@@ -103,7 +103,10 @@ layout: default
 
 <!-- Multiple Radios -->
 <div class="form-group">
-  <label class="col-md-4 control-label" for="UFO Run">UFO Run</label>
+  <label class="col-md-4 control-label" for="UFO Run">
+  <img src="{{ site.url }}/images/ufo-run.png" style="width: 150px;" title="UFO Run" alt="UFO Run">
+  <p>UFO Run</p>
+  </label>
   <div class="col-md-4">
   <div class="radio">
     <label for="UFO Run-0">
@@ -128,7 +131,10 @@ layout: default
 
 <!-- Multiple Radios -->
 <div class="form-group">
-  <label class="col-md-4 control-label" for="Fit it Quick">Fit it Quick</label>
+  <label class="col-md-4 control-label" for="Fit it Quick">
+  <img src="{{ site.url }}/images/fit-it-quick.png" style="width: 150px;" title="Fit it Quick" alt="Fit it Quick">
+  <p>Fit it Quick</p>
+  </label>
   <div class="col-md-4">
   <div class="radio">
     <label for="Fit it Quick-0">
@@ -153,7 +159,10 @@ layout: default
 
 <!-- Multiple Radios -->
 <div class="form-group">
-  <label class="col-md-4 control-label" for="Monument Valley">Monument Valley</label>
+  <label class="col-md-4 control-label" for="Monument Valley">
+  <img src="{{ site.url }}/images/monument-valley.png" style="width: 150px;" title="Mnument Valley" alt="Mnument Valley">
+  <p>Mnument Valley</p>
+  </label>
   <div class="col-md-4">
   <div class="radio">
     <label for="Monument Valley-0">
@@ -178,7 +187,10 @@ layout: default
 
 <!-- Multiple Radios -->
 <div class="form-group">
-  <label class="col-md-4 control-label" for="99 Bricks Wizard Academy">99 Bricks Wizard Academy</label>
+  <label class="col-md-4 control-label" for="99 Bricks Wizard Academy">
+  <img src="{{ site.url }}/images/99-bricks-wizard-academy.png" style="width: 150px;" title="99 Bricks Wizard Academy" alt="99 Bricks Wizard Academy">
+  <p>99 Bricks Wizard Academy</p>
+  </label>
   <div class="col-md-4">
   <div class="radio">
     <label for="99 Bricks Wizard Academy-0">
@@ -203,7 +215,10 @@ layout: default
 
 <!-- Multiple Radios -->
 <div class="form-group">
-  <label class="col-md-4 control-label" for="Mole Kart">Mole Kart</label>
+  <label class="col-md-4 control-label" for="Mole Kart">
+  <img src="{{ site.url }}/images/mole-kart.png" style="width: 150px;" title="Mole Kart" alt="Mole Kart">
+  <p>Mole Kart</p>
+  </label>
   <div class="col-md-4">
   <div class="radio">
     <label for="Mole Kart-0">
@@ -228,7 +243,10 @@ layout: default
 
 <!-- Multiple Radios -->
 <div class="form-group">
-  <label class="col-md-4 control-label" for="Cordy 2">Cordy 2</label>
+  <label class="col-md-4 control-label" for="Cordy 2">
+  <img src="{{ site.url }}/images/cordy-2.png" style="width: 150px;" title="Cordy 2" alt="Cordy 2">
+  <p>Cordy 2</p>
+  </label>
   <div class="col-md-4">
   <div class="radio">
     <label for="Cordy 2-0">
@@ -253,7 +271,10 @@ layout: default
 
 <!-- Multiple Radios -->
 <div class="form-group">
-  <label class="col-md-4 control-label" for="Shu's Garden">Shu's Garden</label>
+  <label class="col-md-4 control-label" for="Shu's Garden">
+  <img src="{{ site.url }}/images/shus-garden.png" style="width: 150px;" title="Shu's Garden" alt="Shu's Garden">
+  <p>Shu's Garden</p>
+  </label>
   <div class="col-md-4">
   <div class="radio">
     <label for="Shu's Garden-0">
@@ -278,7 +299,10 @@ layout: default
 
 <!-- Multiple Radios -->
 <div class="form-group">
-  <label class="col-md-4 control-label" for="LEGO Juniors Quest">LEGO Juniors Quest</label>
+  <label class="col-md-4 control-label" for="LEGO Juniors Quest">
+  <img src="{{ site.url }}/images/lego-juniors-quest.png" style="width: 150px;" title="LEGO Juniors Quest" alt="LEGO Juniors Quest">
+  <p>LEGO Juniors Quest</p>
+  </label>
   <div class="col-md-4">
   <div class="radio">
     <label for="LEGO Juniors Quest-0">
@@ -303,7 +327,10 @@ layout: default
 
 <!-- Multiple Radios -->
 <div class="form-group">
-  <label class="col-md-4 control-label" for="Dr. Panda's Handyman - Free">Dr. Panda's Handyman - Free</label>
+  <label class="col-md-4 control-label" for="Dr. Panda's Handyman - Free">
+  <img src="{{ site.url }}/images/drpandas-handyman-free.png" style="width: 150px;" title="Dr. Panda's Handyman - Free" alt="Dr. Panda's Handyman - Free">
+  <p>Dr. Panda's Handyman - Free</p>
+  </label>
   <div class="col-md-4">
   <div class="radio">
     <label for="Dr. Panda's Handyman - Free-0">
@@ -328,7 +355,10 @@ layout: default
 
 <!-- Multiple Radios -->
 <div class="form-group">
-  <label class="col-md-4 control-label" for="Amazing Alex Free">Amazing Alex Free</label>
+  <label class="col-md-4 control-label" for="Amazing Alex Free">
+  <img src="{{ site.url }}/images/amazing-alex-free.png" style="width: 150px;" title="Amazing Alex Free" alt="Amazing Alex Free">
+  <p>Amazing Alex Free</p>
+  </label>
   <div class="col-md-4">
   <div class="radio">
     <label for="Amazing Alex Free-0">
@@ -353,7 +383,10 @@ layout: default
 
 <!-- Multiple Radios -->
 <div class="form-group">
-  <label class="col-md-4 control-label" for="Toca Builders">Toca Builders</label>
+  <label class="col-md-4 control-label" for="Toca Builders">
+  <img src="{{ site.url }}/images/toca-builders.png" style="width: 150px;" title="Toca Builders" alt="Toca Builders">
+  <p>Toca Builders</p>
+  </label>
   <div class="col-md-4">
   <div class="radio">
     <label for="Toca Builders-0">
@@ -378,7 +411,10 @@ layout: default
 
 <!-- Multiple Radios -->
 <div class="form-group">
-  <label class="col-md-4 control-label" for="Gravity Duck">Gravity Duck</label>
+  <label class="col-md-4 control-label" for="Gravity Duck">
+  <img src="{{ site.url }}/images/gravity-duck.png" style="width: 150px;" title="Gravity Duck" alt="Gravity Duck">
+  <p>Gravity Duck</p>
+  </label>
   <div class="col-md-4">
   <div class="radio">
     <label for="Gravity Duck-0">
