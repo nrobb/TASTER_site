@@ -4,7 +4,6 @@ layout: default
 ---
 <div align="left">
 <h2>To help us develop a great game, we're involving users in the design phase. The users will play the following games, then we'll ask them some questions about their preferences. This will help us determine what features we should include in our own game.</h2>
-<div style="float:right; margin:0 15px 5px 0;">
 <h3>Tealy and Orangey</h3>
 <p>
 <a href="http://onemorelevel.com/game/tealy_and_orangey" target="_blank">Play Tealy and Orangey</a>
@@ -15,8 +14,7 @@ layout: default
 This game is free, and can be played in a browser by following the above link. The object of the game is to navigate both the teal and orange coloured balls into the chequered end zone. Both balls are controlled by the same set of controls: left and right arrow keys to move; space to jump. The game contains written instructions.
 </p>
 <div>
-  <iframe width="420" height="315" src="//www.youtube.com/embed/nW34Ne3Xp-w" frameborder="0" allowfullscreen></iframe>
-</div>
+  <iframe width="420" height="315" src="//www.youtube.com/embed/nW34Ne3Xp-w" frameborder="0"></iframe>
 </div>
 <h3>Multitask 2</h3>
 <p>
