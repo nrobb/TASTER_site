@@ -8,6 +8,8 @@ layout: default
 <p>
 <a href="http://onemorelevel.com/game/tealy_and_orangey" target="_blank">Play Tealy and Orangey</a>
 </p>
+<p>Price: Free</p>
+<p>Difficulty: High</p>
 <p>
 This game is free, and can be played in a browser by following the above link. The object of the game is to navigate both the teal and orange coloured balls into the chequered end zone. Both balls are controlled by the same set of controls: left and right arrow keys to move; space to jump. The game contains written instructions.
 </p>
