@@ -81,8 +81,8 @@ This game is free, and can be played in a browser by following the above link. T
 </p>
 <h3>Monument Valley</h3>
 <p>
-<a href="https://play.google.com/store/apps/details?id=com.ustwo.monumentvalley" target="_blank">Android</a> | 
-<a href="https://itunes.apple.com/gb/app/monument-valley/id728293409?mt=8&uo=4" target="_blank">iOS</a>
+<a href="https://play.google.com/store/apps/details?id=com.ustwo.monumentvalley" target="_top">Android</a> | 
+<a href="https://itunes.apple.com/gb/app/monument-valley/id728293409?mt=8&uo=4" target="itunes_store">iOS</a>
 </p>
 <p>Price: £2.49</p>
 <p>Difficulty: Medium</p>
@@ -98,7 +98,7 @@ This game costs £2.49, and can be downloaded from either the Google Play Store 
 </p>
 <h3>99 Bricks Wizard Academy</h3>
 <p>
-<a href="https://play.google.com/store/apps/details?id=nl.weirdbeard.brickswizardacademy" target="_blank">Android</a> | 
+<a href="https://play.google.com/store/apps/details?id=nl.weirdbeard.brickswizardacademy" target="_top">Android</a> | 
 <a href="https://itunes.apple.com/gb/app/99-bricks-wizard-academy/id784444243?mt=8&uo=4" target="itunes_store" target="_blank">iOS</a>
 </p>
 <p>Price: Free - £1.99</p>
@@ -115,8 +115,8 @@ This game is costs £1.99 on Apple devices. The game is free on Android devices.
 </p>
 <h3>Mole Kart</h3>
 <p>
-<a href="https://play.google.com/store/apps/details?id=com.droidhen.taomee.molekart" target="_blank">Android</a> | 
-<a href="https://itunes.apple.com/gb/app/mole-kart-i/id522579018?mt=8&uo=4" target="_blank">iOS</a>
+<a href="https://play.google.com/store/apps/details?id=com.droidhen.taomee.molekart" target="_top">Android</a> | 
+<a href="https://itunes.apple.com/gb/app/mole-kart-i/id522579018?mt=8&uo=4" target="itunes_store">iOS</a>
 </p>
 <p>Price: Free</p>
 <p>Difficulty: Medium</p>
@@ -132,8 +132,8 @@ This game is free, and can be downloaded from either the Google Play Store (for 
 </p>
 <h3>Cordy 2</h3>
 <p>
-<a href="https://play.google.com/store/apps/details?id=com.silvertree.cordy2" target="_blank">Android</a> | 
-<a href="https://itunes.apple.com/gb/app/cordy-2/id550378113?mt=8&uo=4" target="_blank">iOS</a>
+<a href="https://play.google.com/store/apps/details?id=com.silvertree.cordy2" target="_top">Android</a> | 
+<a href="https://itunes.apple.com/gb/app/cordy-2/id550378113?mt=8&uo=4" target="itunes_store">iOS</a>
 </p>
 <p>Price: Free</p>
 <p>Difficulty: Medium</p>
@@ -150,7 +150,7 @@ A limited version of this game can be downloaded for free. It is possible to buy
 <h3>Shu’s Garden</h3>
 <p>
 <a href="https://play.google.com/store/apps/details?id=ca.jasonrtbond.shusgarden" target="_blank">Android</a> | 
-<a href="https://itunes.apple.com/gb/app/shus-garden/id821684800?mt=8&uo=4" target="_blank">iOS</a>
+<a href="https://itunes.apple.com/gb/app/shus-garden/id821684800?mt=8&uo=4" target="itunes_store">iOS</a>
 </p>
 <p>Price: Free - £0.69</p>
 <p>Difficulty: Low</p>
@@ -167,7 +167,7 @@ This game is free on Android devices, and costs £0.69 on Apple devices. The gam
 <h3>LEGO Juniors Quest</h3>
 <p>
 <a href="https://play.google.com/store/apps/details?id=com.lego.juniors.quest" target="_blank">Android</a> | 
-<a href="https://itunes.apple.com/gb/app/lego-juniors-quest/id845046214?mt=8&uo=4" target="_blank">iOS</a>
+<a href="https://itunes.apple.com/gb/app/lego-juniors-quest/id845046214?mt=8&uo=4" target="itunes_store">iOS</a>
 </p>
 <p>Price: Free</p>
 <p>Difficulty: Low</p>
@@ -184,7 +184,7 @@ This game is free, and can be downloaded from either the Google Play Store (for 
 <h3>Dr. Panda’s Handyman - Free</h3>
 <p>
 <a href="https://play.google.com/store/apps/details?id=com.tribeplay.pandahandymanlite" target="_blank">Android</a> | 
-<a href="https://itunes.apple.com/gb/app/dr.-pandas-handyman-free/id739573635?mt=8&uo=4" target="_blank">iOS</a>
+<a href="https://itunes.apple.com/gb/app/dr.-pandas-handyman-free/id739573635?mt=8&uo=4" target="itunes_store">iOS</a>
 </p>
 <p>Price: Free</p>
 <p>Difficulty: Low</p>
@@ -201,7 +201,7 @@ This game is free, and can be downloaded from either the Google Play Store (for 
 <h3>Amazing Alex Free</h3>
 <p>
 <a href="https://play.google.com/store/apps/details?id=com.rovio.amazingalex.trial" target="_blank">Android</a> | 
-<a href="https://itunes.apple.com/gb/app/amazing-alex-hd-free/id549769784?mt=8&uo=4" target="_blank">iOS</a>
+<a href="https://itunes.apple.com/gb/app/amazing-alex-hd-free/id549769784?mt=8&uo=4" target="itunes_store">iOS</a>
 </p>
 <p>Price: Free</p>
 <p>Difficulty: Low - High</p>
@@ -218,7 +218,7 @@ This game is free, and can be downloaded from either the Google Play Store (for 
 <h3>Toca Builders</h3>
 <p>
 <a href="https://play.google.com/store/apps/details?id=com.tocaboca.tocabuild" target="_blank">Android</a> | 
-<a href="https://itunes.apple.com/gb/app/toca-builders/id652077009?mt=8&uo=4" target="_blank">iOS</a>
+<a href="https://itunes.apple.com/gb/app/toca-builders/id652077009?mt=8&uo=4" target="itunes_store">iOS</a>
 </p>
 <p>Price: £1.99</p>
 <p>Difficulty: Low - Medium</p>
@@ -235,7 +235,7 @@ This game costs £1.99. The game can be downloaded from either the Google Play S
 <h3>Gravity Duck</h3>
 <p>
 <a href="https://play.google.com/store/apps/details?id=com.noodlecake.gravityduck" target="_blank">Android</a> | 
-<a href="https://itunes.apple.com/gb/app/gravity.duck/id599272198?mt=8&uo=4" target="_blank">iOS</a>
+<a href="https://itunes.apple.com/gb/app/gravity.duck/id599272198?mt=8&uo=4" target="itunes_store">iOS</a>
 </p>
 <p>Price: £0.54 - £0.69</p>
 <p>Difficulty: Medium - High</p>
