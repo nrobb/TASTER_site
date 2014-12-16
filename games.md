@@ -10,12 +10,12 @@ layout: default
 </p>
 <p>Price: Free</p>
 <p>Difficulty: Medium - High</p>
-<p>
-This game is free, and can be played in a browser by following the above link. The object of the game is to navigate both the teal and orange coloured balls into the chequered end zone. Both balls are controlled by the same set of controls: left and right arrow keys to move; space to jump. The game contains written instructions.
-</p>
 <div>
   <iframe width="420" height="315" src="//www.youtube.com/embed/nW34Ne3Xp-w" frameborder="0"></iframe>
 </div>
+<p>
+This game is free, and can be played in a browser by following the above link. The object of the game is to navigate both the teal and orange coloured balls into the chequered end zone. Both balls are controlled by the same set of controls: left and right arrow keys to move; space to jump. The game contains written instructions.
+</p>
 <h3>Multitask 2</h3>
 <p>
 <a href="http://armorgames.com/play/11152/multitask-2" target="_blank">Play Multitask 2</a>
