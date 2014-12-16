@@ -10,7 +10,12 @@ layout: default
 </p>
 <p>Price: Free</p>
 <p>Difficulty: Medium - High</p>
-<iframe width="420" height="315" src="//www.youtube.com/embed/nW34Ne3Xp-w" frameborder="0"></iframe>
+<div class="container" style="max-width: 420px; height: auto;"
+<!-- 4:3 aspect ratio -->
+<div class="embed-responsive embed-responsive-4by3">
+  <iframe class="embed-responsive-item" src="//www.youtube.com/embed/nW34Ne3Xp-w"></iframe>
+</div>
+</div>
 <p>
 This game is free, and can be played in a browser by following the above link. The object of the game is to navigate both the teal and orange coloured balls into the chequered end zone. Both balls are controlled by the same set of controls: left and right arrow keys to move; space to jump. The game contains written instructions.
 </p>
