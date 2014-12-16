@@ -23,7 +23,7 @@ layout: default
   <div class="col-md-4">
   <div class="radio">
     <label for="Tealy and Orangey-0">
-      <input type="radio" name="Tealy and Orangey" id="Tealy and Orangey-0" value="I didn't understand this game at all" checked="checked">
+      <input type="radio" name="Tealy and Orangey" id="Tealy and Orangey-0" value="I didn't understand this game at all" checked="checked" src="http://www.timeforcake.com/images/uploads/blog/alone-and-confused.jpg">
       I didn't understand this game at all
     </label>
 	</div>
