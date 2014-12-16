@@ -23,7 +23,7 @@ layout: default
   <div class="col-md-4">
   <div class="radio">
     <label for="name_of_game-0">
-      <input type="radio" name="name_of_game" id="name_of_game-0" value="not at all" checked="checked">
+      <input type="radio" name="name_of_game" id="name_of_game-0" value="not at all">
       I didn't understand this game at all
     </label>
 	</div>
@@ -48,7 +48,7 @@ layout: default
   <div class="col-md-4">
   <div class="radio">
     <label for="name_of_game-0">
-      <input type="radio" name="name_of_game" id="name_of_game-0" value="not at all" checked="checked">
+      <input type="radio" name="name_of_game" id="name_of_game-0" value="not at all">
       I didn't understand this game at all
     </label>
 	</div>
@@ -73,7 +73,7 @@ layout: default
   <div class="col-md-4">
   <div class="radio">
     <label for="name_of_game-0">
-      <input type="radio" name="name_of_game" id="name_of_game-0" value="not at all" checked="checked">
+      <input type="radio" name="name_of_game" id="name_of_game-0" value="not at all">
       I didn't understand this game at all
     </label>
 	</div>
@@ -98,7 +98,7 @@ layout: default
   <div class="col-md-4">
   <div class="radio">
     <label for="name_of_game-0">
-      <input type="radio" name="name_of_game" id="name_of_game-0" value="not at all" checked="checked">
+      <input type="radio" name="name_of_game" id="name_of_game-0" value="not at all">
       I didn't understand this game at all
     </label>
 	</div>
@@ -123,7 +123,7 @@ layout: default
   <div class="col-md-4">
   <div class="radio">
     <label for="name_of_game-0">
-      <input type="radio" name="name_of_game" id="name_of_game-0" value="not at all" checked="checked">
+      <input type="radio" name="name_of_game" id="name_of_game-0" value="not at all">
       I didn't understand this game at all
     </label>
 	</div>
@@ -148,7 +148,7 @@ layout: default
   <div class="col-md-4">
   <div class="radio">
     <label for="name_of_game-0">
-      <input type="radio" name="name_of_game" id="name_of_game-0" value="not at all" checked="checked">
+      <input type="radio" name="name_of_game" id="name_of_game-0" value="not at all">
       I didn't understand this game at all
     </label>
 	</div>
@@ -173,7 +173,7 @@ layout: default
   <div class="col-md-4">
   <div class="radio">
     <label for="name_of_game-0">
-      <input type="radio" name="name_of_game" id="name_of_game-0" value="not at all" checked="checked">
+      <input type="radio" name="name_of_game" id="name_of_game-0" value="not at all">
       I didn't understand this game at all
     </label>
 	</div>
@@ -198,7 +198,7 @@ layout: default
   <div class="col-md-4">
   <div class="radio">
     <label for="name_of_game-0">
-      <input type="radio" name="name_of_game" id="name_of_game-0" value="not at all" checked="checked">
+      <input type="radio" name="name_of_game" id="name_of_game-0" value="not at all">
       I didn't understand this game at all
     </label>
 	</div>
@@ -223,7 +223,7 @@ layout: default
   <div class="col-md-4">
   <div class="radio">
     <label for="name_of_game-0">
-      <input type="radio" name="name_of_game" id="name_of_game-0" value="not at all" checked="checked">
+      <input type="radio" name="name_of_game" id="name_of_game-0" value="not at all">
       I didn't understand this game at all
     </label>
 	</div>
@@ -248,7 +248,7 @@ layout: default
   <div class="col-md-4">
   <div class="radio">
     <label for="name_of_game-0">
-      <input type="radio" name="name_of_game" id="name_of_game-0" value="not at all" checked="checked">
+      <input type="radio" name="name_of_game" id="name_of_game-0" value="not at all">
       I didn't understand this game at all
     </label>
 	</div>
@@ -273,7 +273,7 @@ layout: default
   <div class="col-md-4">
   <div class="radio">
     <label for="name_of_game-0">
-      <input type="radio" name="name_of_game" id="name_of_game-0" value="not at all" checked="checked">
+      <input type="radio" name="name_of_game" id="name_of_game-0" value="not at all">
       I didn't understand this game at all
     </label>
 	</div>
@@ -298,7 +298,7 @@ layout: default
   <div class="col-md-4">
   <div class="radio">
     <label for="name_of_game-0">
-      <input type="radio" name="name_of_game" id="name_of_game-0" value="not at all" checked="checked">
+      <input type="radio" name="name_of_game" id="name_of_game-0" value="not at all">
       I didn't understand this game at all
     </label>
 	</div>
@@ -323,7 +323,7 @@ layout: default
   <div class="col-md-4">
   <div class="radio">
     <label for="name_of_game-0">
-      <input type="radio" name="name_of_game" id="name_of_game-0" value="not at all" checked="checked">
+      <input type="radio" name="name_of_game" id="name_of_game-0" value="not at all">
       I didn't understand this game at all
     </label>
 	</div>
@@ -348,7 +348,7 @@ layout: default
   <div class="col-md-4">
   <div class="radio">
     <label for="name_of_game-0">
-      <input type="radio" name="name_of_game" id="name_of_game-0" value="not at all" checked="checked">
+      <input type="radio" name="name_of_game" id="name_of_game-0" value="not at all">
       I didn't understand this game at all
     </label>
 	</div>
@@ -373,7 +373,7 @@ layout: default
   <div class="col-md-4">
   <div class="radio">
     <label for="name_of_game-0">
-      <input type="radio" name="name_of_game" id="name_of_game-0" value="not at all" checked="checked">
+      <input type="radio" name="name_of_game" id="name_of_game-0" value="not at all">
       I didn't understand this game at all
     </label>
 	</div>
