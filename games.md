@@ -25,7 +25,7 @@ This game is free, and can be played in a browser by following the above link. T
 </p>
 <p>Price: Free</p>
 <p>Difficulty: High</p>
-<div class="container" style="max-width: 420px; height: auto;"
+<div style="max-width: 420px; height: auto;"
 <!-- 4:3 aspect ratio -->
 <div class="embed-responsive embed-responsive-4by3">
   <iframe class="embed-responsive-item" src="//www.youtube.com/embed/zR6S4qPEdmI"></iframe>
@@ -40,7 +40,7 @@ This game is free, and can be played in a browser by following the above link. T
 </p>
 <p>Price: Free</p>
 <p>Difficulty: Low - Medium</p>
-<div class="container" style="max-width: 420px; height: auto;"
+<div style="max-width: 420px; height: auto;"
 <!-- 4:3 aspect ratio -->
 <div class="embed-responsive embed-responsive-4by3">
   <iframe class="embed-responsive-item" src="//www.youtube.com/embed/S6vwCHVrS8Q"></iframe>
@@ -55,7 +55,7 @@ This game is free, and can be played in a browser by following the above link. T
 </p>
 <p>Price: Free</p>
 <p>Difficulty: Low - Medium</p>
-<div class="container" style="max-width: 420px; height: auto;"
+<div style="max-width: 420px; height: auto;"
 <!-- 4:3 aspect ratio -->
 <div class="embed-responsive embed-responsive-4by3">
   <iframe class="embed-responsive-item" src="//www.youtube.com/embed/kwTV8DET3Pc"></iframe>
@@ -70,7 +70,7 @@ This game is free, and can be played in a browser by following the above link. T
 </p>
 <p>Price: Free</p>
 <p>Difficulty: Low - Medium</p>
-<div class="container" style="max-width: 420px; height: auto;"
+<div style="max-width: 420px; height: auto;"
 <!-- 4:3 aspect ratio -->
 <div class="embed-responsive embed-responsive-4by3">
   <iframe class="embed-responsive-item" src="//www.youtube.com/embed/kfGY5MWZKmI"></iframe>
@@ -87,7 +87,7 @@ This game is free, and can be played in a browser by following the above link. T
 <p>Price: £2.49</p>
 <p>Difficulty: Medium</p>
 <p>Requires Android 2.3.3 or iOS 6.0. App Store age rating: 4+ </p>
-<div class="container" style="max-width: 560px; height: auto;"
+<div style="max-width: 560px; height: auto;"
 <!-- 4:3 aspect ratio -->
 <div class="embed-responsive embed-responsive-4by3">
   <iframe class="embed-responsive-item" src="//www.youtube.com/embed/wC1jHHF_Wjo"></iframe>
@@ -104,7 +104,7 @@ This game costs £2.49, and can be downloaded from either the Google Play Store 
 <p>Price: Free - £1.99</p>
 <p>Difficulty: Medium</p>
 <p>Requires Android 2.3.3 or iOS 6.0. App Store age rating: 4+</p>
-<div class="container" style="max-width: 560px; height: auto;"
+<div style="max-width: 560px; height: auto;"
 <!-- 4:3 aspect ratio -->
 <div class="embed-responsive embed-responsive-4by3">
   <iframe class="embed-responsive-item" src="//www.youtube.com/embed/DeFbfxKmTwU"></iframe>
@@ -121,7 +121,12 @@ This game is costs £1.99 on Apple devices. The game is free on Android devices.
 <p>Price: Free</p>
 <p>Difficulty: Medium</p>
 <p>Requires Android 2.2 or  iOS 4.1. App Store age rating: 4+</p>
-<iframe width="560" height="315" src="//www.youtube.com/embed/yzkfcKMk12g" frameborder="0" allowfullscreen></iframe>
+<div style="max-width: 560px; height: auto;"
+<!-- 4:3 aspect ratio -->
+<div class="embed-responsive embed-responsive-4by3">
+  <iframe class="embed-responsive-item" src="//www.youtube.com/embed/yzkfcKMk12g"></iframe>
+</div>
+</div>
 <p>
 This game is free, and can be downloaded from either the Google Play Store (for Android tablet) or Apple App Store (for iPhone / iPad) by following the relevant link. The object of the game is to compete in a series of kart races. The kart can be steered left or right with on-screen buttons. Various power-ups can be collected, and these are also controlled with on-screen buttons. This game contains written instructions.
 </p>
@@ -133,7 +138,12 @@ This game is free, and can be downloaded from either the Google Play Store (for 
 <p>Price: Free</p>
 <p>Difficulty: Medium</p>
 <p>Requires Android 2.2 or iOS 4.0. App Store age rating: 4+</p>
-<iframe width="560" height="315" src="//www.youtube.com/embed/ErNemGz-gSQ" frameborder="0" allowfullscreen></iframe>
+<div style="max-width: 560px; height: auto;"
+<!-- 4:3 aspect ratio -->
+<div class="embed-responsive embed-responsive-4by3">
+  <iframe class="embed-responsive-item" src="//www.youtube.com/embed/ErNemGz-gSQ"></iframe>
+</div>
+</div>
 <p>
 A limited version of this game can be downloaded for free. It is possible to buy the full game as an in app purchase. It is also possible to make other in app purchases. The game can be downloaded from either the Google Play Store (for Android tablet) or Apple App Store (for iPhone / iPad) by following the relevant link. The object of the game is to guide the character through the levels, collecting gears and performing various other tasks. The character is controlled with on screen buttons, which vary as the game progresses. This game contains written instructions.
 </p>
@@ -145,7 +155,12 @@ A limited version of this game can be downloaded for free. It is possible to buy
 <p>Price: Free - £0.69</p>
 <p>Difficulty: Low</p>
 <p>Requires Android 4.0 or iOS 6.0. App Store age rating: 4+</p>
-<iframe width="560" height="315" src="//www.youtube.com/embed/AJQtUVDgr9U" frameborder="0" allowfullscreen></iframe>
+<div style="max-width: 560px; height: auto;"
+<!-- 4:3 aspect ratio -->
+<div class="embed-responsive embed-responsive-4by3">
+  <iframe class="embed-responsive-item" src="//www.youtube.com/embed/AJQtUVDgr9U"></iframe>
+</div>
+</div>
 <p>
 This game is free on Android devices, and costs £0.69 on Apple devices. The game can be downloaded from either the Google Play Store (for Android tablet) or Apple App Store (for iPhone / iPad) by following the relevant link. The object of the game is to grow plants, by rolling the character over unnourished land, collecting and depositing seeds. This game contains a parent’s section, with detailed instructions.
 </p>
@@ -157,7 +172,12 @@ This game is free on Android devices, and costs £0.69 on Apple devices. The gam
 <p>Price: Free</p>
 <p>Difficulty: Low</p>
 <p>Requires Android 4.0 or iOS 6.0. App Store age rating: 4+</p>
-<iframe width="560" height="315" src="//www.youtube.com/embed/hfOmzYw95L8" frameborder="0" allowfullscreen></iframe>
+<div style="max-width: 560px; height: auto;"
+<!-- 4:3 aspect ratio -->
+<div class="embed-responsive embed-responsive-4by3">
+  <iframe class="embed-responsive-item" src="//www.youtube.com/embed/hfOmzYw95L8"></iframe>
+</div>
+</div>
 <p>
 This game is free, and can be downloaded from either the Google Play Store (for Android tablet) or Apple App Store (for iPhone / iPad) by following the relevant link. The game provides a structured story, with various gameplay objectives. Controls are explained visually, with no written instructions.
 </p>
@@ -169,7 +189,12 @@ This game is free, and can be downloaded from either the Google Play Store (for 
 <p>Price: Free</p>
 <p>Difficulty: Low</p>
 <p>Requires Android 2.0.1 or iOS 4.0. App Store age rating: 4+</p>
-<iframe width="560" height="315" src="//www.youtube.com/embed/sNvZkDhaaHg" frameborder="0" allowfullscreen></iframe>
+<div style="max-width: 560px; height: auto;"
+<!-- 4:3 aspect ratio -->
+<div class="embed-responsive embed-responsive-4by3">
+  <iframe class="embed-responsive-item" src="//www.youtube.com/embed/sNvZkDhaaHg"></iframe>
+</div>
+</div>
 <p>
 This game is free, and can be downloaded from either the Google Play Store (for Android tablet) or Apple App Store (for iPhone / iPad) by following the relevant link. The object of the game is to perform various tasks to fix up the house, using simple touch controls.
 </p>
@@ -181,7 +206,12 @@ This game is free, and can be downloaded from either the Google Play Store (for 
 <p>Price: Free</p>
 <p>Difficulty: Low - High</p>
 <p>Requires Android 2.1 or iOS 4.2. App Store age rating: 4+</p>
-<iframe width="560" height="315" src="//www.youtube.com/embed/_4Dk4TonGus" frameborder="0" allowfullscreen></iframe>
+<div style="max-width: 560px; height: auto;"
+<!-- 4:3 aspect ratio -->
+<div class="embed-responsive embed-responsive-4by3">
+  <iframe class="embed-responsive-item" src="//www.youtube.com/embed/_4Dk4TonGus"></iframe>
+</div>
+</div>
 <p>
 This game is free, and can be downloaded from either the Google Play Store (for Android tablet) or Apple App Store (for iPhone / iPad) by following the relevant link. The object of the game is to build a series of contraptions using everyday objects. Objects are moved by touching them and dragging them into position.
 </p>
@@ -193,7 +223,12 @@ This game is free, and can be downloaded from either the Google Play Store (for 
 <p>Price: £1.99</p>
 <p>Difficulty: Low - Medium</p>
 <p>Requires Android 4.0.3 or iOS 5.0. App Store age rating: 4+</p>
-<iframe width="560" height="315" src="//www.youtube.com/embed/h0HJ7Ww97pA" frameborder="0" allowfullscreen></iframe>
+<div style="max-width: 560px; height: auto;"
+<!-- 4:3 aspect ratio -->
+<div class="embed-responsive embed-responsive-4by3">
+  <iframe class="embed-responsive-item" src="//www.youtube.com/embed/h0HJ7Ww97pA"></iframe>
+</div>
+</div>
 <p>
 This game costs £1.99. The game can be downloaded from either the Google Play Store (for Android tablet) or Apple App Store (for iPhone / iPad) by following the relevant link. The game does not have set objectives, but offers a variety of characters who can manipulate blocks in various ways, all with different controls. This game contains a parent’s section with detailed instructions.
 </p>
@@ -205,7 +240,12 @@ This game costs £1.99. The game can be downloaded from either the Google Play S
 <p>Price: £0.54 - £0.69</p>
 <p>Difficulty: Medium - High</p>
 <p>Rrequires Android 2.3 or iOS 4.3. App Store age rating: 4+</p>
-<iframe width="560" height="315" src="//www.youtube.com/embed/D7zHEGC8wz0" frameborder="0" allowfullscreen></iframe>
+<div style="max-width: 560px; height: auto;"
+<!-- 4:3 aspect ratio -->
+<div class="embed-responsive embed-responsive-4by3">
+  <iframe class="embed-responsive-item" src="//www.youtube.com/embed/D7zHEGC8wz0"></iframe>
+</div>
+</div>
 <p>
 This game costs between £0.54 and £0.69. It is possible to make in app purchases within the game. The game can be downloaded from either the Google Play Store (for Android tablet) or Apple App Store (for iPhone / iPad) by following the relevant link. The object of the each level is navigate the duck to the golden egg. The duck is controlled by the four directional buttons (“the D-pad”) in the bottom left corner of the screen. The A button in the bottom right corner of the screen changes the direction of gravity, so that the duck can walk on the walls or roof. This game contains written instructions.
 </p>
