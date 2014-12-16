@@ -14,8 +14,7 @@ layout: default
 <li>Load the game in your web browser / install the game on your tablet.</li>
 <li>Present the game to your child, without explaining the game to them.</li>
 <li>Observe your child using the game for a brief period (less than 5 minutes).</li>
-<li>For each game, make a note of how well your child understands what they are supposed to do in the game (Doesn't understand at all / Understands a little / Understands well).</li>
-<li>Ask your child how well they understand what they are supposed to do in the game. Make a note of this. You can print out this image, to help your child decide.</li>
+<li>For each game, make a note of how well your child understands what they are supposed to do in the game (Doesn't understand at all / Understands a little / Understands well). You can show your child this image, to help them decide.</li>
 </ul>
 <li>When you have completed this process for all the games, complete this form.</li>
 <li>At this point you can explain each game further, so that your child fully understands how to play the game.</li>
