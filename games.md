@@ -10,7 +10,7 @@ layout: default
 </p>
 <p>Price: Free</p>
 <p>Difficulty: Medium - High</p>
-<div style="max-width: 420px; height: auto;"
+<div style="max-width: 560px; height: auto;"
 <!-- 4:3 aspect ratio -->
 <div class="embed-responsive embed-responsive-4by3">
   <iframe class="embed-responsive-item" src="//www.youtube.com/embed/nW34Ne3Xp-w"></iframe>
@@ -25,7 +25,7 @@ This game is free, and can be played in a browser by following the above link. T
 </p>
 <p>Price: Free</p>
 <p>Difficulty: High</p>
-<div style="max-width: 420px; height: auto;"
+<div style="max-width: 560px; height: auto;"
 <!-- 4:3 aspect ratio -->
 <div class="embed-responsive embed-responsive-4by3">
   <iframe class="embed-responsive-item" src="//www.youtube.com/embed/zR6S4qPEdmI"></iframe>
@@ -40,7 +40,7 @@ This game is free, and can be played in a browser by following the above link. T
 </p>
 <p>Price: Free</p>
 <p>Difficulty: Low - Medium</p>
-<div style="max-width: 420px; height: auto;"
+<div style="max-width: 560px; height: auto;"
 <!-- 4:3 aspect ratio -->
 <div class="embed-responsive embed-responsive-4by3">
   <iframe class="embed-responsive-item" src="//www.youtube.com/embed/S6vwCHVrS8Q"></iframe>
@@ -55,7 +55,7 @@ This game is free, and can be played in a browser by following the above link. T
 </p>
 <p>Price: Free</p>
 <p>Difficulty: Low - Medium</p>
-<div style="max-width: 420px; height: auto;"
+<div style="max-width: 560px; height: auto;"
 <!-- 4:3 aspect ratio -->
 <div class="embed-responsive embed-responsive-4by3">
   <iframe class="embed-responsive-item" src="//www.youtube.com/embed/kwTV8DET3Pc"></iframe>
@@ -70,7 +70,7 @@ This game is free, and can be played in a browser by following the above link. T
 </p>
 <p>Price: Free</p>
 <p>Difficulty: Low - Medium</p>
-<div style="max-width: 420px; height: auto;"
+<div style="max-width: 560px; height: auto;"
 <!-- 4:3 aspect ratio -->
 <div class="embed-responsive embed-responsive-4by3">
   <iframe class="embed-responsive-item" src="//www.youtube.com/embed/kfGY5MWZKmI"></iframe>
