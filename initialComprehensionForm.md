@@ -161,7 +161,7 @@ layout: default
 <div class="form-group">
   <label class="col-md-4 control-label" for="Monument Valley">
   <img src="{{ site.url }}/images/monument-valley.png" style="width: 150px;" title="Monument Valley" alt="Monument Valley">
-  <p>Mnument Valley</p>
+  <p>Monument Valley</p>
   </label>
   <div class="col-md-4">
   <div class="radio">
@@ -328,7 +328,7 @@ layout: default
 <!-- Multiple Radios -->
 <div class="form-group">
   <label class="col-md-4 control-label" for="Dr. Panda's Handyman - Free">
-  <img src="{{ site.url }}/images/dr-panda-handyman-free.png" style="width: 150px;" title="Dr. Panda's Handyman - Free" alt="Dr. Panda's Handyman - Free">
+  <img src="{{ site.url }}/images/dr-panda-handyman.png" style="width: 150px;" title="Dr. Panda's Handyman - Free" alt="Dr. Panda's Handyman - Free">
   <p>Dr. Panda's Handyman - Free</p>
   </label>
   <div class="col-md-4">
