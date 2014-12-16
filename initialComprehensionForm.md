@@ -54,19 +54,19 @@ layout: default
   <div class="col-md-4">
   <div class="radio">
     <label for="Multitask 2-0">
-      <input type="radio" name="Multitask 2" id="Multitask 2-0" value="I didn't understand this game at all" >
+      <input type="radio" name="Multitask 2" id="Multitask 2-0" value="I didn't understand this game at all" required="">
       I didn't understand this game at all
     </label>
 	</div>
   <div class="radio">
     <label for="Multitask 2-1">
-      <input type="radio" name="Multitask 2" id="Multitask 2-1" value="I understood this game a little">
+      <input type="radio" name="Multitask 2" id="Multitask 2-1" value="I understood this game a little" required="">
       I understood this game a little
     </label>
 	</div>
   <div class="radio">
     <label for="Multitask 2-2">
-      <input type="radio" name="Multitask 2" id="Multitask 2-2" value="I understood this game well">
+      <input type="radio" name="Multitask 2" id="Multitask 2-2" value="I understood this game well" required="">
       I understood this game well
     </label>
 	</div>
@@ -82,19 +82,19 @@ layout: default
   <div class="col-md-4">
   <div class="radio">
     <label for="Lux Ahoy-0">
-      <input type="radio" name="Lux Ahoy" id="Lux Ahoy-0" value="I didn't understand this game at all" >
+      <input type="radio" name="Lux Ahoy" id="Lux Ahoy-0" value="I didn't understand this game at all" required="">
       I didn't understand this game at all
     </label>
 	</div>
   <div class="radio">
     <label for="Lux Ahoy-1">
-      <input type="radio" name="Lux Ahoy" id="Lux Ahoy-1" value="I understood this game a little">
+      <input type="radio" name="Lux Ahoy" id="Lux Ahoy-1" value="I understood this game a little" required="">
       I understood this game a little
     </label>
 	</div>
   <div class="radio">
     <label for="Lux Ahoy-2">
-      <input type="radio" name="Lux Ahoy" id="Lux Ahoy-2" value="I understood this game well">
+      <input type="radio" name="Lux Ahoy" id="Lux Ahoy-2" value="I understood this game well" required="">
       I understood this game well
     </label>
 	</div>
@@ -110,19 +110,19 @@ layout: default
   <div class="col-md-4">
   <div class="radio">
     <label for="UFO Run-0">
-      <input type="radio" name="UFO Run" id="UFO Run-0" value="I didn't understand this game at all" >
+      <input type="radio" name="UFO Run" id="UFO Run-0" value="I didn't understand this game at all" required="">
       I didn't understand this game at all
     </label>
 	</div>
   <div class="radio">
     <label for="UFO Run-1">
-      <input type="radio" name="UFO Run" id="UFO Run-1" value="I understood this game a little">
+      <input type="radio" name="UFO Run" id="UFO Run-1" value="I understood this game a little" required="">
       I understood this game a little
     </label>
 	</div>
   <div class="radio">
     <label for="UFO Run-2">
-      <input type="radio" name="UFO Run" id="UFO Run-2" value="I understood this game well">
+      <input type="radio" name="UFO Run" id="UFO Run-2" value="I understood this game well" required="">
       I understood this game well
     </label>
 	</div>
@@ -138,19 +138,19 @@ layout: default
   <div class="col-md-4">
   <div class="radio">
     <label for="Fit it Quick-0">
-      <input type="radio" name="Fit it Quick" id="Fit it Quick-0" value="I didn't understand this game at all" >
+      <input type="radio" name="Fit it Quick" id="Fit it Quick-0" value="I didn't understand this game at all" required="">
       I didn't understand this game at all
     </label>
 	</div>
   <div class="radio">
     <label for="Fit it Quick-1">
-      <input type="radio" name="Fit it Quick" id="Fit it Quick-1" value="I understood this game a little">
+      <input type="radio" name="Fit it Quick" id="Fit it Quick-1" value="I understood this game a little" required="">
       I understood this game a little
     </label>
 	</div>
   <div class="radio">
     <label for="Fit it Quick-2">
-      <input type="radio" name="Fit it Quick" id="Fit it Quick-2" value="I understood this game well">
+      <input type="radio" name="Fit it Quick" id="Fit it Quick-2" value="I understood this game well" required="">
       I understood this game well
     </label>
 	</div>
@@ -166,19 +166,19 @@ layout: default
   <div class="col-md-4">
   <div class="radio">
     <label for="Monument Valley-0">
-      <input type="radio" name="Monument Valley" id="Monument Valley-0" value="I didn't understand this game at all" >
+      <input type="radio" name="Monument Valley" id="Monument Valley-0" value="I didn't understand this game at all" required="">
       I didn't understand this game at all
     </label>
 	</div>
   <div class="radio">
     <label for="Monument Valley-1">
-      <input type="radio" name="Monument Valley" id="Monument Valley-1" value="I understood this game a little">
+      <input type="radio" name="Monument Valley" id="Monument Valley-1" value="I understood this game a little" required="">
       I understood this game a little
     </label>
 	</div>
   <div class="radio">
     <label for="Monument Valley-2">
-      <input type="radio" name="Monument Valley" id="Monument Valley-2" value="I understood this game well">
+      <input type="radio" name="Monument Valley" id="Monument Valley-2" value="I understood this game well" required="">
       I understood this game well
     </label>
 	</div>
@@ -194,19 +194,19 @@ layout: default
   <div class="col-md-4">
   <div class="radio">
     <label for="99 Bricks Wizard Academy-0">
-      <input type="radio" name="99 Bricks Wizard Academy" id="99 Bricks Wizard Academy-0" value="I didn't understand this game at all" >
+      <input type="radio" name="99 Bricks Wizard Academy" id="99 Bricks Wizard Academy-0" value="I didn't understand this game at all" required="">
       I didn't understand this game at all
     </label>
 	</div>
   <div class="radio">
     <label for="99 Bricks Wizard Academy-1">
-      <input type="radio" name="99 Bricks Wizard Academy" id="99 Bricks Wizard Academy-1" value="I understood this game a little">
+      <input type="radio" name="99 Bricks Wizard Academy" id="99 Bricks Wizard Academy-1" value="I understood this game a little" required="">
       I understood this game a little
     </label>
 	</div>
   <div class="radio">
     <label for="99 Bricks Wizard Academy-2">
-      <input type="radio" name="99 Bricks Wizard Academy" id="99 Bricks Wizard Academy-2" value="I understood this game well">
+      <input type="radio" name="99 Bricks Wizard Academy" id="99 Bricks Wizard Academy-2" value="I understood this game well" required="">
       I understood this game well
     </label>
 	</div>
@@ -222,19 +222,19 @@ layout: default
   <div class="col-md-4">
   <div class="radio">
     <label for="Mole Kart-0">
-      <input type="radio" name="Mole Kart" id="Mole Kart-0" value="I didn't understand this game at all" >
+      <input type="radio" name="Mole Kart" id="Mole Kart-0" value="I didn't understand this game at all" required="">
       I didn't understand this game at all
     </label>
 	</div>
   <div class="radio">
     <label for="Mole Kart-1">
-      <input type="radio" name="Mole Kart" id="Mole Kart-1" value="I understood this game a little">
+      <input type="radio" name="Mole Kart" id="Mole Kart-1" value="I understood this game a little" required="">
       I understood this game a little
     </label>
 	</div>
   <div class="radio">
     <label for="Mole Kart-2">
-      <input type="radio" name="Mole Kart" id="Mole Kart-2" value="I understood this game well">
+      <input type="radio" name="Mole Kart" id="Mole Kart-2" value="I understood this game well" required="">
       I understood this game well
     </label>
 	</div>
@@ -250,19 +250,19 @@ layout: default
   <div class="col-md-4">
   <div class="radio">
     <label for="Cordy 2-0">
-      <input type="radio" name="Cordy 2" id="Cordy 2-0" value="I didn't understand this game at all" >
+      <input type="radio" name="Cordy 2" id="Cordy 2-0" value="I didn't understand this game at all" required="">
       I didn't understand this game at all
     </label>
 	</div>
   <div class="radio">
     <label for="Cordy 2-1">
-      <input type="radio" name="Cordy 2" id="Cordy 2-1" value="I understood this game a little">
+      <input type="radio" name="Cordy 2" id="Cordy 2-1" value="I understood this game a little" required="">
       I understood this game a little
     </label>
 	</div>
   <div class="radio">
     <label for="Cordy 2-2">
-      <input type="radio" name="Cordy 2" id="Cordy 2-2" value="I understood this game well">
+      <input type="radio" name="Cordy 2" id="Cordy 2-2" value="I understood this game well" required="">
       I understood this game well
     </label>
 	</div>
@@ -278,19 +278,19 @@ layout: default
   <div class="col-md-4">
   <div class="radio">
     <label for="Shu's Garden-0">
-      <input type="radio" name="Shu's Garden" id="Shu's Garden-0" value="I didn't understand this game at all" >
+      <input type="radio" name="Shu's Garden" id="Shu's Garden-0" value="I didn't understand this game at all" required="">
       I didn't understand this game at all
     </label>
 	</div>
   <div class="radio">
     <label for="Shu's Garden-1">
-      <input type="radio" name="Shu's Garden" id="Shu's Garden-1" value="I understood this game a little">
+      <input type="radio" name="Shu's Garden" id="Shu's Garden-1" value="I understood this game a little" required="">
       I understood this game a little
     </label>
 	</div>
   <div class="radio">
     <label for="Shu's Garden-2">
-      <input type="radio" name="Shu's Garden" id="Shu's Garden-2" value="I understood this game well">
+      <input type="radio" name="Shu's Garden" id="Shu's Garden-2" value="I understood this game well" required="">
       I understood this game well
     </label>
 	</div>
@@ -306,19 +306,19 @@ layout: default
   <div class="col-md-4">
   <div class="radio">
     <label for="LEGO Juniors Quest-0">
-      <input type="radio" name="LEGO Juniors Quest" id="LEGO Juniors Quest-0" value="I didn't understand this game at all" >
+      <input type="radio" name="LEGO Juniors Quest" id="LEGO Juniors Quest-0" value="I didn't understand this game at all" required="">
       I didn't understand this game at all
     </label>
 	</div>
   <div class="radio">
     <label for="LEGO Juniors Quest-1">
-      <input type="radio" name="LEGO Juniors Quest" id="LEGO Juniors Quest-1" value="I understood this game a little">
+      <input type="radio" name="LEGO Juniors Quest" id="LEGO Juniors Quest-1" value="I understood this game a little" required="">
       I understood this game a little
     </label>
 	</div>
   <div class="radio">
     <label for="LEGO Juniors Quest-2">
-      <input type="radio" name="LEGO Juniors Quest" id="LEGO Juniors Quest-2" value="I understood this game well">
+      <input type="radio" name="LEGO Juniors Quest" id="LEGO Juniors Quest-2" value="I understood this game well" required="">
       I understood this game well
     </label>
 	</div>
@@ -334,19 +334,19 @@ layout: default
   <div class="col-md-4">
   <div class="radio">
     <label for="Dr. Panda's Handyman - Free-0">
-      <input type="radio" name="Dr. Panda's Handyman - Free" id="Dr. Panda's Handyman - Free-0" value="I didn't understand this game at all" >
+      <input type="radio" name="Dr. Panda's Handyman - Free" id="Dr. Panda's Handyman - Free-0" value="I didn't understand this game at all" required="">
       I didn't understand this game at all
     </label>
 	</div>
   <div class="radio">
     <label for="Dr. Panda's Handyman - Free-1">
-      <input type="radio" name="Dr. Panda's Handyman - Free" id="Dr. Panda's Handyman - Free-1" value="I understood this game a little">
+      <input type="radio" name="Dr. Panda's Handyman - Free" id="Dr. Panda's Handyman - Free-1" value="I understood this game a little" required="">
       I understood this game a little
     </label>
 	</div>
   <div class="radio">
     <label for="Dr. Panda's Handyman - Free-2">
-      <input type="radio" name="Dr. Panda's Handyman - Free" id="Dr. Panda's Handyman - Free-2" value="I understood this game well">
+      <input type="radio" name="Dr. Panda's Handyman - Free" id="Dr. Panda's Handyman - Free-2" value="I understood this game well" required="">
       I understood this game well
     </label>
 	</div>
@@ -362,19 +362,19 @@ layout: default
   <div class="col-md-4">
   <div class="radio">
     <label for="Amazing Alex Free-0">
-      <input type="radio" name="Amazing Alex Free" id="Amazing Alex Free-0" value="I didn't understand this game at all" >
+      <input type="radio" name="Amazing Alex Free" id="Amazing Alex Free-0" value="I didn't understand this game at all" required="">
       I didn't understand this game at all
     </label>
 	</div>
   <div class="radio">
     <label for="Amazing Alex Free-1">
-      <input type="radio" name="Amazing Alex Free" id="Amazing Alex Free-1" value="I understood this game a little">
+      <input type="radio" name="Amazing Alex Free" id="Amazing Alex Free-1" value="I understood this game a little" required="">
       I understood this game a little
     </label>
 	</div>
   <div class="radio">
     <label for="Amazing Alex Free-2">
-      <input type="radio" name="Amazing Alex Free" id="Amazing Alex Free-2" value="I understood this game well">
+      <input type="radio" name="Amazing Alex Free" id="Amazing Alex Free-2" value="I understood this game well" required="">
       I understood this game well
     </label>
 	</div>
@@ -390,19 +390,19 @@ layout: default
   <div class="col-md-4">
   <div class="radio">
     <label for="Toca Builders-0">
-      <input type="radio" name="Toca Builders" id="Toca Builders-0" value="I didn't understand this game at all" >
+      <input type="radio" name="Toca Builders" id="Toca Builders-0" value="I didn't understand this game at all" required="">
       I didn't understand this game at all
     </label>
 	</div>
   <div class="radio">
     <label for="Toca Builders-1">
-      <input type="radio" name="Toca Builders" id="Toca Builders-1" value="I understood this game a little">
+      <input type="radio" name="Toca Builders" id="Toca Builders-1" value="I understood this game a little" required="">
       I understood this game a little
     </label>
 	</div>
   <div class="radio">
     <label for="Toca Builders-2">
-      <input type="radio" name="Toca Builders" id="Toca Builders-2" value="I understood this game well">
+      <input type="radio" name="Toca Builders" id="Toca Builders-2" value="I understood this game well" required="">
       I understood this game well
     </label>
 	</div>
@@ -418,19 +418,19 @@ layout: default
   <div class="col-md-4">
   <div class="radio">
     <label for="Gravity Duck-0">
-      <input type="radio" name="Gravity Duck" id="Gravity Duck-0" value="I didn't understand this game at all" >
+      <input type="radio" name="Gravity Duck" id="Gravity Duck-0" value="I didn't understand this game at all" required="">
       I didn't understand this game at all
     </label>
 	</div>
   <div class="radio">
     <label for="Gravity Duck-1">
-      <input type="radio" name="Gravity Duck" id="Gravity Duck-1" value="I understood this game a little">
+      <input type="radio" name="Gravity Duck" id="Gravity Duck-1" value="I understood this game a little" required="">
       I understood this game a little
     </label>
 	</div>
   <div class="radio">
     <label for="Gravity Duck-2">
-      <input type="radio" name="Gravity Duck" id="Gravity Duck-2" value="I understood this game well">
+      <input type="radio" name="Gravity Duck" id="Gravity Duck-2" value="I understood this game well" required="">
       I understood this game well
     </label>
 	</div>
