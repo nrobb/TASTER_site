@@ -23,7 +23,7 @@ layout: default
 <h3>During the two week period:</h3>
 <ol>
 <li>Give your child free access to all the games that you are happy for them to play.</li>
-<li>At the end of each day, you and your child should complete this form.</li>
+<li>At the end of each day, you and your child should complete the <a href="{{site.url}}/dailyFeedbackForm">Daily Feedback Form</a>.</li>
 </ol>
 <h3>After the two week period, a final form will become available for you and your child to complete.</h3>
 </div>
