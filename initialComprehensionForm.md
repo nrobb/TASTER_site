@@ -46,7 +46,9 @@ layout: default
 
 <!-- Multiple Radios -->
 <div class="form-group">
-  <label class="col-md-4 control-label" for="Multitask 2">Multitask 2</label>
+  <label class="col-md-4 control-label" for="Multitask 2">
+  <img src="{{ site.url }}/images/multitask-2.png" style="width: 150px;" title="Multitask 2" alt="Multitask 2">  
+  </label>
   <div class="col-md-4">
   <div class="radio">
     <label for="Multitask 2-0">
@@ -71,7 +73,9 @@ layout: default
 
 <!-- Multiple Radios -->
 <div class="form-group">
-  <label class="col-md-4 control-label" for="Lux Ahoy">Lux Ahoy</label>
+  <label class="col-md-4 control-label" for="Lux Ahoy">
+  <img src="{{ site.url }}/images/lux-ahoy.png" style="width: 150px;" title="Lux Ahoy" alt="Lux Ahoy">  
+  </label>
   <div class="col-md-4">
   <div class="radio">
     <label for="Lux Ahoy-0">
