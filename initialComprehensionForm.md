@@ -6,7 +6,11 @@ layout: default
 <fieldset>
 
 <!-- Form Name -->
-<legend>Initial Comprehension</legend>
+<legend>Initial Comprehension Form</legend>
+
+<div>
+  Use this image to help you answer the questions.
+</div>
 
 <!-- Text input-->
 <div class="form-group">
