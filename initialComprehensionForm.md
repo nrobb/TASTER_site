@@ -8,10 +8,6 @@ layout: default
 <!-- Form Name -->
 <legend>Initial Comprehension Form</legend>
 
-<div>
-  Use this image to help you answer the questions.
-</div>
-
 <!-- Text input-->
 <div class="form-group">
   <label class="col-md-4 control-label" for="id">Your ID number</label>  
@@ -23,6 +19,7 @@ layout: default
 
 <!-- Multiple Radios -->
 <div class="form-group">
+  <img src="http://www.timeforcake.com/images/uploads/blog/alone-and-confused.jpg">
   <label class="col-md-4 control-label" for="Tealy and Orangey">Tealy and Orangey</label>
   <div class="col-md-4">
   <div class="radio">
