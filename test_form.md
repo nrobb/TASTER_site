@@ -2,7 +2,7 @@
 title: test form
 layout: default
 ---
-<div style="align: left;">
+<div align="left">
 <h2>Send e-mail to someone@example.com:</h2>
 <form action="MAILTO:someone@example.com" method="post" enctype="text/plain">
 Name:<br>
