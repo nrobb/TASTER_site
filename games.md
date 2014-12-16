@@ -41,11 +41,8 @@ This game is free, and can be played in a browser by following the above link. T
 </p>
 <h3>Monument Valley</h3>
 <p>
-<a href="https://play.google.com/store/apps/details?id=com.ustwo.monumentvalley">
-  <img alt="Get it on Google Play"
-       src="https://developer.android.com/images/brand/en_generic_rgb_wo_45.png" />
-</a>
-<a href="https://itunes.apple.com/gb/app/monument-valley/id728293409?mt=8&uo=4" target="itunes_store" style="display:inline-block;overflow:hidden;background:url(https://linkmaker.itunes.apple.com/htmlResources/assets/en_us//images/web/linkmaker/badge_appstore-lrg.png) no-repeat;width:135px;height:40px;@media only screen{background-image:url(https://linkmaker.itunes.apple.com/htmlResources/assets/en_us//images/web/linkmaker/badge_appstore-lrg.svg);}"></a>
+<a href="https://play.google.com/store/apps/details?id=com.ustwo.monumentvalley" target="_blank">Android</a> | 
+<a href="https://itunes.apple.com/gb/app/monument-valley/id728293409?mt=8&uo=4" target="_blank">iOS</a>
 </p>
 <p>Requires Android 2.3.3 or iOS 6.0. App Store age rating: 4+ </p>
 <p>
