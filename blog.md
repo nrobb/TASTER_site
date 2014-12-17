@@ -2,9 +2,8 @@
 layout: default
 title: TASTER blog
 ---
-<ul class="posts">
-  {% for post in site.posts %}
-  <li><span>{{ post.date | date_to_string }}</span></li>
-  <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-  {% endfor %}
-</ul>
+
+{% for post in site.posts %}
+<p>{{ post.date | date_to_string }}</p>
+<h3>{{ post.title }}</h3>
+{% endfor %}
