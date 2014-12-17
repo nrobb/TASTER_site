@@ -167,8 +167,8 @@ layout: default
 
 <!-- Button (Double) -->
 <div class="form-group">
-  <label class="col-md-4 control-label" for="dailyFeedbackSendButton"></label>
-  <div class="col-md-8">
+  <label class="col-md-10 control-label" for="dailyFeedbackSendButton"></label>
+  <div class="col-md-2">
     <button id="dailyFeedbackSendButton" type="submit" name="dailyFeedbackSendButton" class="btn btn-primary">Send</button>
     <button id="dailyFeedbackResetButton" type="reset" name="dailyFeedbackResetButton" class="btn btn-default">Reset</button>
   </div>
