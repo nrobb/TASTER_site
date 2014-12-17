@@ -28,8 +28,8 @@ layout: default
 
 <!-- Multiple Checkboxes (inline) -->
 <div class="form-group">
-  <label class="col-md-4 control-label" for="whichGames">Which games did you play today? (Select each game you played)</label>
-  <div class="col-md-4">
+  <label class="col-md-6 control-label" for="whichGames">Which games did you play today? (Select each game you played)</label>
+  <div class="col-md-6">
     <label class="checkbox-inline" for="whichGames-0">
       <input type="checkbox" name="whichGames" id="whichGames-0" value="Tealy and Orangey">
         <img src="{{ site.url }}/images/tealy-and-orangey.png" style="width: 150px;" title="Tealy and Orangey" alt="Tealy and Orangey">
