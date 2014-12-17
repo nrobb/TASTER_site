@@ -6,7 +6,7 @@ layout: default
 <fieldset>
 
 <!-- Form Name -->
-<legend>Initial Comprehension Form</legend>
+<legend>Initial Comprehension Form (Don't forget to click the button to send the form)</legend>
 
 <!-- Text input-->
 <div class="form-group">
