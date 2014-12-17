@@ -2,7 +2,7 @@
 title: Initial Comprehension Form
 layout: default
 ---
-<form class="form-horizontal" action="http://forms.brace.io/tasterproject@gmail.com">
+<form class="form-horizontal" action="http://forms.brace.io/tasterproject@gmail.com" method="POST">
 <fieldset>
 
 <!-- Form Name -->
