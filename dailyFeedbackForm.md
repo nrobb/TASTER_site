@@ -10,8 +10,8 @@ layout: default
 
 <!-- Text input-->
 <div class="form-group">
-  <label class="col-md-4 control-label" for="id">Your ID number</label>  
-  <div class="col-md-4">
+  <label class="col-md-6 control-label" for="id">Your ID number</label>  
+  <div class="col-md-6">
   <input id="id" name="id" type="text" placeholder="id number" class="form-control input-md" required="">
   <span class="help-block">Your ID number will have been sent to you by email</span>  
   </div>
@@ -19,8 +19,8 @@ layout: default
 
 <!-- Text input-->
 <div class="form-group">
-  <label class="col-md-4 control-label" for="timespent">How long did you play games for today?</label>  
-  <div class="col-md-4">
+  <label class="col-md-6 control-label" for="timespent">How long did you play games for today?</label>  
+  <div class="col-md-6">
   <input id="timespent" name="timespent" type="text" placeholder="e.g. 2 hours" class="form-control input-md" required="">
     
   </div>
@@ -100,8 +100,8 @@ layout: default
 
 <!-- Multiple Radios (inline) -->
 <div class="form-group">
-  <label class="col-md-4 control-label" for="dailyFav">Which game did you enjoy most today? (Select just one game)</label>
-  <div class="col-md-4"> 
+  <label class="col-md-6 control-label" for="dailyFav">Which game did you enjoy most today? (Select just one game)</label>
+  <div class="col-md-6"> 
     <label class="radio-inline" for="dailyFav-0">
       <input type="radio" name="dailyFav" id="dailyFav-0" value="Tealy and Orangey" required="">
       Tealy and Orangey
@@ -167,7 +167,7 @@ layout: default
 
 <!-- Button (Double) -->
 <div class="form-group">
-  <label class="col-md-4 control-label" for="dailyFeedbackSendButton"></label>
+  <label class="col-md-6 control-label" for="dailyFeedbackSendButton"></label>
   <div class="col-md-8">
     <button id="dailyFeedbackSendButton" type="submit" name="dailyFeedbackSendButton" class="btn btn-primary">Send</button>
     <button id="dailyFeedbackResetButton" type="reset" name="dailyFeedbackResetButton" class="btn btn-default">Reset</button>
