@@ -2,7 +2,7 @@
 title: Initial Comprehension Form
 layout: default
 ---
-<form class="form-horizontal">
+<form class="form-horizontal" action="MAILTO:tasterproject@gmail.com" method="post" enctype="text/plain">
 <fieldset>
 
 <!-- Form Name -->
@@ -441,8 +441,8 @@ layout: default
 <div class="form-group">
   <label class="col-md-4 control-label" for="initial_comp_send_button"></label>
   <div class="col-md-8">
-    <button id="initial_comp_send_button" name="initial_comp_send_button" class="btn btn-primary">Send</button>
-    <button id="initial_comp_reset_button" name="initial_comp_reset_button" class="btn btn-default">Reset</button>
+    <button id="initial_comp_send_button" type="submit" name="initial_comp_send_button" class="btn btn-primary">Send</button>
+    <button id="initial_comp_reset_button" type="reset" name="initial_comp_reset_button" class="btn btn-default">Reset</button>
   </div>
 </div>
 
