@@ -98,63 +98,63 @@ layout: default
   <label class="col-md-4 control-label" for="dailyFav">Which game did you enjoy most today? (Select just one game)</label>
   <div class="col-md-4"> 
     <label class="radio-inline" for="dailyFav-0">
-      <input type="radio" name="dailyFav" id="dailyFav-0" value="Tealy and Orangey" checked="checked">
+      <input type="radio" name="dailyFav" id="dailyFav-0" value="Tealy and Orangey" required="">
       Tealy and Orangey
     </label> 
     <label class="radio-inline" for="dailyFav-1">
-      <input type="radio" name="dailyFav" id="dailyFav-1" value="Multitask 2">
+      <input type="radio" name="dailyFav" id="dailyFav-1" value="Multitask 2" required="">
       Multitask 2
     </label> 
     <label class="radio-inline" for="dailyFav-2">
-      <input type="radio" name="dailyFav" id="dailyFav-2" value="Lux Ahoy">
+      <input type="radio" name="dailyFav" id="dailyFav-2" value="Lux Ahoy" required="">
       Lux Ahoy
     </label> 
     <label class="radio-inline" for="dailyFav-3">
-      <input type="radio" name="dailyFav" id="dailyFav-3" value="UFO Run">
+      <input type="radio" name="dailyFav" id="dailyFav-3" value="UFO Run" required="">
       UFO Run
     </label> 
     <label class="radio-inline" for="dailyFav-4">
-      <input type="radio" name="dailyFav" id="dailyFav-4" value="Fit it Quick">
+      <input type="radio" name="dailyFav" id="dailyFav-4" value="Fit it Quick" required="">
       Fit it Quick
     </label> 
     <label class="radio-inline" for="dailyFav-5">
-      <input type="radio" name="dailyFav" id="dailyFav-5" value="Monument Valley">
+      <input type="radio" name="dailyFav" id="dailyFav-5" value="Monument Valley" required="">
       Monument Valley
     </label> 
     <label class="radio-inline" for="dailyFav-6">
-      <input type="radio" name="dailyFav" id="dailyFav-6" value="99 Bricks Wizard Academy">
+      <input type="radio" name="dailyFav" id="dailyFav-6" value="99 Bricks Wizard Academy" required="">
       99 Bricks Wizard Academy
     </label> 
     <label class="radio-inline" for="dailyFav-7">
-      <input type="radio" name="dailyFav" id="dailyFav-7" value="Mole Kart">
+      <input type="radio" name="dailyFav" id="dailyFav-7" value="Mole Kart" required="">
       Mole Kart
     </label> 
     <label class="radio-inline" for="dailyFav-8">
-      <input type="radio" name="dailyFav" id="dailyFav-8" value="Cordy 2">
+      <input type="radio" name="dailyFav" id="dailyFav-8" value="Cordy 2" required="">
       Cordy 2
     </label> 
     <label class="radio-inline" for="dailyFav-9">
-      <input type="radio" name="dailyFav" id="dailyFav-9" value="Shu's Garden">
+      <input type="radio" name="dailyFav" id="dailyFav-9" value="Shu's Garden" required="">
       Shu's Garden
     </label> 
     <label class="radio-inline" for="dailyFav-10">
-      <input type="radio" name="dailyFav" id="dailyFav-10" value="LEGO Juniors Quest">
+      <input type="radio" name="dailyFav" id="dailyFav-10" value="LEGO Juniors Quest" required="">
       LEGO Juniors Quest
     </label> 
     <label class="radio-inline" for="dailyFav-11">
-      <input type="radio" name="dailyFav" id="dailyFav-11" value="Dr. Panda's Handyman - Free">
+      <input type="radio" name="dailyFav" id="dailyFav-11" value="Dr. Panda's Handyman - Free" required="">
       Dr. Panda's Handyman - Free
     </label> 
     <label class="radio-inline" for="dailyFav-12">
-      <input type="radio" name="dailyFav" id="dailyFav-12" value="Amazing Alex Free">
+      <input type="radio" name="dailyFav" id="dailyFav-12" value="Amazing Alex Free" required="">
       Amazing Alex Free
     </label> 
     <label class="radio-inline" for="dailyFav-13">
-      <input type="radio" name="dailyFav" id="dailyFav-13" value="Toca Builders">
+      <input type="radio" name="dailyFav" id="dailyFav-13" value="Toca Builders" required="">
       Toca Builders
     </label> 
     <label class="radio-inline" for="dailyFav-14">
-      <input type="radio" name="dailyFav" id="dailyFav-14" value="Gravity Duck">
+      <input type="radio" name="dailyFav" id="dailyFav-14" value="Gravity Duck" required="">
       Gravity Duck
     </label>
   </div>
@@ -164,8 +164,8 @@ layout: default
 <div class="form-group">
   <label class="col-md-4 control-label" for="dailyFeedbackSendButton"></label>
   <div class="col-md-8">
-    <button id="dailyFeedbackSendButton" name="dailyFeedbackSendButton" class="btn btn-primary">Send</button>
-    <button id="dailyFeedbackResetButton" name="dailyFeedbackResetButton" class="btn btn-default">Reset</button>
+    <button id="dailyFeedbackSendButton" type="submit" name="dailyFeedbackSendButton" class="btn btn-primary">Send</button>
+    <button id="dailyFeedbackResetButton" type="reset" name="dailyFeedbackResetButton" class="btn btn-default">Reset</button>
   </div>
 </div>
 
