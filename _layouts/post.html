@@ -5,11 +5,20 @@ layout: default
 {{ content }}
 </div>
 
-<div id="related">
-  <h2>Related Posts</h2>
-  <ul class="posts">
-    {% for post in site.related_posts limit:3 %}
-      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
-  </ul>
-</div>
+<div id="page-navigation">
+        <div class="clear">&nbsp;</div>
+        <div style="float: left;" class="left">
+        {% if page.previous.url %}
+                <a href="{{page.previous.url}}" title="Previous Post:
+{{page.previous.title}}">&laquo; {{page.previous.title}}</a>
+        {% endif %}
+        </div>
+
+        <div style="float: right;" class="right">
+        {% if page.next.url %}
+                <a href="{{page.next.url}}" title="next Post:
+{{page.next.title}}">{{page.next.title}} &raquo; </a>
+        {% endif %}
+        </div>
+        <div class="clear">&nbsp;</div>
+</div> 
