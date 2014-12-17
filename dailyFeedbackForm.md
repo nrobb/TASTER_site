@@ -88,7 +88,7 @@ layout: default
     <label class="checkbox-inline" for="whichGames-11">
       <input type="checkbox" name="whichGames" id="whichGames-11" value="Dr. Panda's Handyman - Free">
         <img src="{{ site.url }}/images/dr-panda-handyman.png" style="width: 150px;" title="Dr. Panda's Handyman - Free" alt="Dr. Panda's Handyman - Free">
-        <p>Dr. Panda's Handyman - Free</p>
+        <p>Dr. Panda's Handyman</p>
     </label>
     <label class="checkbox-inline" for="whichGames-12">
       <input type="checkbox" name="whichGames" id="whichGames-12" value="Amazing Alex Free">
@@ -158,7 +158,7 @@ layout: default
     </label> 
     <label class="radio-inline" for="dailyFav-11">
       <input type="radio" name="dailyFav" id="dailyFav-11" value="Dr. Panda's Handyman - Free" required="">
-      Dr. Panda's Handyman - Free
+      Dr. Panda's Handyman
     </label> 
     <label class="radio-inline" for="dailyFav-12">
       <input type="radio" name="dailyFav" id="dailyFav-12" value="Amazing Alex Free" required="">
