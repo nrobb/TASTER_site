@@ -57,43 +57,53 @@ layout: default
     </label>
     <label class="checkbox-inline" for="whichGames-5">
       <input type="checkbox" name="whichGames" id="whichGames-5" value="Monument Valley">
-      Monument Valley
+        <img src="{{ site.url }}/images/monument-valley.png" style="width: 150px;" title="Monument Valley" alt="Monument Valley">
+        <p>Monument Valley</p>
     </label>
     <label class="checkbox-inline" for="whichGames-6">
       <input type="checkbox" name="whichGames" id="whichGames-6" value="99 Bricks Wizard Academy">
-      99 Bricks Wizard Academy
+        <img src="{{ site.url }}/images/99-bricks-wizard-academy.png" style="width: 150px;" title="99 Bricks Wizard Academy" alt="99 Bricks Wizard Academy">
+        <p>99 Bricks Wizard Academy</p>
     </label>
     <label class="checkbox-inline" for="whichGames-7">
       <input type="checkbox" name="whichGames" id="whichGames-7" value="Mole Kart">
-      Mole Kart
+        <img src="{{ site.url }}/images/mole-kart.png" style="width: 150px;" title="Mole Kart" alt="Mole Kart">
+        <p>Mole Kart</p>
     </label>
     <label class="checkbox-inline" for="whichGames-8">
       <input type="checkbox" name="whichGames" id="whichGames-8" value="Cordy 2">
-      Cordy 2
+        <img src="{{ site.url }}/images/cordy-2.png" style="width: 150px;" title="Cordy 2" alt="Cordy 2">
+        <p>Cordy 2</p>
     </label>
     <label class="checkbox-inline" for="whichGames-9">
       <input type="checkbox" name="whichGames" id="whichGames-9" value="Shu's Garden">
-      Shu's Garden
+        <img src="{{ site.url }}/images/shus-garden.png" style="width: 150px;" title="Shu's Garden" alt="Shu's Garden">
+        <p>Shu's Garden</p>
     </label>
     <label class="checkbox-inline" for="whichGames-10">
       <input type="checkbox" name="whichGames" id="whichGames-10" value="LEGO Juniors Quest">
-      LEGO Juniors Quest
+        <img src="{{ site.url }}/images/lego-juniors-quest.png" style="width: 150px;" title="LEGO Juniors Quest" alt="LEGO Juniors Quest">
+        <p>LEGO Juniors Quest</p>
     </label>
     <label class="checkbox-inline" for="whichGames-11">
       <input type="checkbox" name="whichGames" id="whichGames-11" value="Dr. Panda's Handyman - Free">
-      Dr. Panda's Handyman - Free
+        <img src="{{ site.url }}/images/dr-panda-handyman.png" style="width: 150px;" title="Dr. Panda's Handyman - Free" alt="Dr. Panda's Handyman - Free">
+        <p>Dr. Panda's Handyman - Free</p>
     </label>
     <label class="checkbox-inline" for="whichGames-12">
       <input type="checkbox" name="whichGames" id="whichGames-12" value="Amazing Alex Free">
-      Amazing Alex Free
+        <img src="{{ site.url }}/images/amazing-alex-free.png" style="width: 150px;" title="Amazing Alex Free" alt="Amazing Alex Free">
+        <p>Amazing Alex Free</p>
     </label>
     <label class="checkbox-inline" for="whichGames-13">
       <input type="checkbox" name="whichGames" id="whichGames-13" value="Toca Builders">
-      Toca Builders
+        <img src="{{ site.url }}/images/toca-builders.png" style="width: 150px;" title="Toca Builders" alt="Toca Builders">
+        <p>Toca Builders</p>
     </label>
     <label class="checkbox-inline" for="whichGames-14">
       <input type="checkbox" name="whichGames" id="whichGames-14" value="Gravity Duck">
-      Gravity Duck
+        <img src="{{ site.url }}/images/gravity-duck.png" style="width: 150px;" title="Gravity Duck" alt="Gravity Duck">
+        <p>Gravity Duck</p>
     </label>
   </div>
 </div>
