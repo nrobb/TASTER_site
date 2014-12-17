@@ -1,4 +1,8 @@
 ---
-layout: default
+layout: post
+title: title of the post
 ---
-test post
+
+h1. {{ page.title }}
+
+text text text
