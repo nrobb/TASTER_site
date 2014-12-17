@@ -99,7 +99,7 @@ This game costs £2.49, and can be downloaded from either the Google Play Store 
 <h2>99 Bricks Wizard Academy</h2>
 <p>
 <h3><a href="https://play.google.com/store/apps/details?id=nl.weirdbeard.brickswizardacademy" target="_blank">Android</a> | 
-<a href="https://itunes.apple.com/gb/app/99-bricks-wizard-academy/id784444243?mt=8&uo=4" target="itunes_store"</h3> target="_blank">iOS</a>
+<a href="https://itunes.apple.com/gb/app/99-bricks-wizard-academy/id784444243?mt=8&uo=4" target="itunes_store">iOS</a></h3>
 </p>
 <p>Price: Free - £1.99</p>
 <p>Difficulty: Medium</p>
