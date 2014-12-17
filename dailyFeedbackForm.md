@@ -32,7 +32,8 @@ layout: default
   <div class="col-md-4">
     <label class="checkbox-inline" for="whichGames-0">
       <input type="checkbox" name="whichGames" id="whichGames-0" value="Tealy and Orangey">
-      Tealy and Orangey
+      <img src="{{ site.url }}/images/tealy-and-orangey.png" style="width: 150px;" title="Tealy and Orangey" alt="Tealy and Orangey">
+      <p>Tealy and Orangey</p>
     </label>
     <label class="checkbox-inline" for="whichGames-1">
       <input type="checkbox" name="whichGames" id="whichGames-1" value="Multitask 2">
