@@ -19,7 +19,7 @@ layout: default
 <p>
 This game is free, and can be played in a browser by following the above link. The object of the game is to navigate both the teal and orange coloured balls into the chequered end zone. Both balls are controlled by the same set of controls: left and right arrow keys to move; space to jump. The game contains written instructions.
 </p>
-<h4>Multitask 2</h4>
+<h2>Multitask 2</h2>
 <p>
 <h3><a href="http://armorgames.com/play/11152/multitask-2" target="_blank">Play Multitask 2</a></h3>
 </p>
@@ -34,7 +34,7 @@ This game is free, and can be played in a browser by following the above link. T
 <p>
 This game is free, and can be played in a browser by following the above link. The object of the game is to perform a variety of different tasks simultaneously. Each time a new task is introduced, the game pauses and the controls for the new task are explained. The game contains written instructions.
 </p>
-<h4>Lux Ahoy</h4>
+<h2>Lux Ahoy</h2>
 <p>
 <h3><a href="http://luxahoy.com" target="_blank">Play Lux Ahoy</a></h3>
 </p>
@@ -49,7 +49,7 @@ This game is free, and can be played in a browser by following the above link. T
 <p>
 This game is free, and can be played in a browser by following the above link. The object of the game is to sink your opponent’s ship with your cannon. The player and computer take turns to make a single shot. The angle of each shot is controlled by the position of the mouse. Press the mouse button to charge your shot, and release to fire. The speed of the cannon ball is controlled by the length of time the mouse button is held for. This game contains some written instructions.
 </p>
-<h4>UFO Run</h4>
+<h2>UFO Run</h2>
 <p>
 <h3><a href="http://play.famobi.com/ufo-run" target="_blank">Play UFO Run</a><h3>
 </p>
@@ -64,7 +64,7 @@ This game is free, and can be played in a browser by following the above link. T
 <p>
 This game is free, and can be played in a browser by following the above link. The object of the game is to collect as many stars as possible while avoiding the red spikes. Pressing and holding the mouse button or spacebar raises the alien, releasing the mouse button or spacebar cause the alien to fall. The alien continually moves right automatically.
 </p>
-<h4>Fit it Quick</h4>
+<h2>Fit it Quick</h2>
 <p>
 <h3><a href="http://play.famobi.com/fit-it-quick" target="_blank">Play Fit it Quick</a></h3>
 </p>
@@ -79,7 +79,7 @@ This game is free, and can be played in a browser by following the above link. T
 <p>
 This game is free, and can be played in a browser by following the above link. The object of the game is to fit the coloured blocks into the correct positions. The blocks are moved by clicking and dragging them with the mouse. This game contains some written instructions.
 </p>
-<h4>Monument Valley</h4>
+<h2>Monument Valley</h2>
 <p>
 <h3><a href="https://play.google.com/store/apps/details?id=com.ustwo.monumentvalley" target="_blank">Android</a> | 
 <a href="https://itunes.apple.com/gb/app/monument-valley/id728293409?mt=8&uo=4" target="itunes_store">iOS</a></h3>
@@ -96,10 +96,10 @@ This game is free, and can be played in a browser by following the above link. T
 <p>
 This game costs £2.49, and can be downloaded from either the Google Play Store (for Android tablet) or Apple App Store (for iPhone / iPad) by following the relevant link. It is possible to buy additional levels as an in app purchase. The object of the game is to navigate the character through a series of 3D puzzles. The character’s movement is controlled by tapping at the location you wish to move to. Various objects can be rotated and dragged in order to make a path for the character. This game contains some written instructions.
 </p>
-<h3>99 Bricks Wizard Academy</h3>
+<h2>99 Bricks Wizard Academy</h2>
 <p>
-<a href="https://play.google.com/store/apps/details?id=nl.weirdbeard.brickswizardacademy" target="_blank">Android</a> | 
-<a href="https://itunes.apple.com/gb/app/99-bricks-wizard-academy/id784444243?mt=8&uo=4" target="itunes_store" target="_blank">iOS</a>
+<h3><a href="https://play.google.com/store/apps/details?id=nl.weirdbeard.brickswizardacademy" target="_blank">Android</a> | 
+<a href="https://itunes.apple.com/gb/app/99-bricks-wizard-academy/id784444243?mt=8&uo=4" target="itunes_store"</h3> target="_blank">iOS</a>
 </p>
 <p>Price: Free - £1.99</p>
 <p>Difficulty: Medium</p>
@@ -113,10 +113,10 @@ This game costs £2.49, and can be downloaded from either the Google Play Store 
 <p>
 This game is costs £1.99 on Apple devices. The game is free on Android devices. It is possible to make in app purchases within the game. The game can be downloaded from either the Google Play Store (for Android tablet) or Apple App Store (for iPhone / iPad) by following the relevant link. The object of the game is to build a tower by positioning the coloured blocks. The blocks can be rotated by tapping anywhere on the screen and moved left or right by dragging in the relevant direction. The speed of the blocks can be increased by dragging the block downwards. The tower is finished when 3 blocks have fallen off the base. This game contains written instructions.
 </p>
-<h3>Mole Kart</h3>
+<h2>Mole Kart</h2>
 <p>
-<a href="https://play.google.com/store/apps/details?id=com.droidhen.taomee.molekart" target="_blank">Android</a> | 
-<a href="https://itunes.apple.com/gb/app/mole-kart-i/id522579018?mt=8&uo=4" target="itunes_store">iOS</a>
+<h3><a href="https://play.google.com/store/apps/details?id=com.droidhen.taomee.molekart" target="_blank">Android</a> | 
+<a href="https://itunes.apple.com/gb/app/mole-kart-i/id522579018?mt=8&uo=4" target="itunes_store">iOS</a></h3>
 </p>
 <p>Price: Free</p>
 <p>Difficulty: Medium</p>
@@ -130,10 +130,10 @@ This game is costs £1.99 on Apple devices. The game is free on Android devices.
 <p>
 This game is free, and can be downloaded from either the Google Play Store (for Android tablet) or Apple App Store (for iPhone / iPad) by following the relevant link. The object of the game is to compete in a series of kart races. The kart can be steered left or right with on-screen buttons. Various power-ups can be collected, and these are also controlled with on-screen buttons. This game contains written instructions.
 </p>
-<h3>Cordy 2</h3>
+<h2>Cordy 2</h2>
 <p>
-<a href="https://play.google.com/store/apps/details?id=com.silvertree.cordy2" target="_blank">Android</a> | 
-<a href="https://itunes.apple.com/gb/app/cordy-2/id550378113?mt=8&uo=4" target="itunes_store">iOS</a>
+<h3><a href="https://play.google.com/store/apps/details?id=com.silvertree.cordy2" target="_blank">Android</a> | 
+<a href="https://itunes.apple.com/gb/app/cordy-2/id550378113?mt=8&uo=4" target="itunes_store">iOS</a></h3>
 </p>
 <p>Price: Free</p>
 <p>Difficulty: Medium</p>
@@ -147,10 +147,10 @@ This game is free, and can be downloaded from either the Google Play Store (for 
 <p>
 A limited version of this game can be downloaded for free. It is possible to buy the full game as an in app purchase. It is also possible to make other in app purchases. The game can be downloaded from either the Google Play Store (for Android tablet) or Apple App Store (for iPhone / iPad) by following the relevant link. The object of the game is to guide the character through the levels, collecting gears and performing various other tasks. The character is controlled with on screen buttons, which vary as the game progresses. This game contains written instructions.
 </p>
-<h3>Shu’s Garden</h3>
+<h2>Shu’s Garden</h2>
 <p>
-<a href="https://play.google.com/store/apps/details?id=ca.jasonrtbond.shusgarden" target="_blank">Android</a> | 
-<a href="https://itunes.apple.com/gb/app/shus-garden/id821684800?mt=8&uo=4" target="itunes_store">iOS</a>
+<h3><a href="https://play.google.com/store/apps/details?id=ca.jasonrtbond.shusgarden" target="_blank">Android</a> | 
+<a href="https://itunes.apple.com/gb/app/shus-garden/id821684800?mt=8&uo=4" target="itunes_store">iOS</a></h3>
 </p>
 <p>Price: Free - £0.69</p>
 <p>Difficulty: Low</p>
@@ -164,10 +164,10 @@ A limited version of this game can be downloaded for free. It is possible to buy
 <p>
 This game is free on Android devices, and costs £0.69 on Apple devices. The game can be downloaded from either the Google Play Store (for Android tablet) or Apple App Store (for iPhone / iPad) by following the relevant link. The object of the game is to grow plants, by rolling the character over unnourished land, collecting and depositing seeds. This game contains a parent’s section, with detailed instructions.
 </p>
-<h3>LEGO Juniors Quest</h3>
+<h2>LEGO Juniors Quest</h2>
 <p>
-<a href="https://play.google.com/store/apps/details?id=com.lego.juniors.quest" target="_blank">Android</a> | 
-<a href="https://itunes.apple.com/gb/app/lego-juniors-quest/id845046214?mt=8&uo=4" target="itunes_store">iOS</a>
+<h3><a href="https://play.google.com/store/apps/details?id=com.lego.juniors.quest" target="_blank">Android</a> | 
+<a href="https://itunes.apple.com/gb/app/lego-juniors-quest/id845046214?mt=8&uo=4" target="itunes_store">iOS</a></h3>
 </p>
 <p>Price: Free</p>
 <p>Difficulty: Low</p>
@@ -181,10 +181,10 @@ This game is free on Android devices, and costs £0.69 on Apple devices. The gam
 <p>
 This game is free, and can be downloaded from either the Google Play Store (for Android tablet) or Apple App Store (for iPhone / iPad) by following the relevant link. The game provides a structured story, with various gameplay objectives. Controls are explained visually, with no written instructions.
 </p>
-<h3>Dr. Panda’s Handyman - Free</h3>
+<h2>Dr. Panda’s Handyman - Free</h2>
 <p>
-<a href="https://play.google.com/store/apps/details?id=com.tribeplay.pandahandymanlite" target="_blank">Android</a> | 
-<a href="https://itunes.apple.com/gb/app/dr.-pandas-handyman-free/id739573635?mt=8&uo=4" target="itunes_store">iOS</a>
+<h3><a href="https://play.google.com/store/apps/details?id=com.tribeplay.pandahandymanlite" target="_blank">Android</a> | 
+<a href="https://itunes.apple.com/gb/app/dr.-pandas-handyman-free/id739573635?mt=8&uo=4" target="itunes_store">iOS</a></h3>
 </p>
 <p>Price: Free</p>
 <p>Difficulty: Low</p>
@@ -198,10 +198,10 @@ This game is free, and can be downloaded from either the Google Play Store (for 
 <p>
 This game is free, and can be downloaded from either the Google Play Store (for Android tablet) or Apple App Store (for iPhone / iPad) by following the relevant link. The object of the game is to perform various tasks to fix up the house, using simple touch controls.
 </p>
-<h3>Amazing Alex Free</h3>
+<h2>Amazing Alex Free</h2>
 <p>
-<a href="https://play.google.com/store/apps/details?id=com.rovio.amazingalex.trial" target="_blank">Android</a> | 
-<a href="https://itunes.apple.com/gb/app/amazing-alex-hd-free/id549769784?mt=8&uo=4" target="itunes_store">iOS</a>
+<h3><a href="https://play.google.com/store/apps/details?id=com.rovio.amazingalex.trial" target="_blank">Android</a> | 
+<a href="https://itunes.apple.com/gb/app/amazing-alex-hd-free/id549769784?mt=8&uo=4" target="itunes_store">iOS</a></h3>
 </p>
 <p>Price: Free</p>
 <p>Difficulty: Low - High</p>
@@ -215,10 +215,10 @@ This game is free, and can be downloaded from either the Google Play Store (for 
 <p>
 This game is free, and can be downloaded from either the Google Play Store (for Android tablet) or Apple App Store (for iPhone / iPad) by following the relevant link. The object of the game is to build a series of contraptions using everyday objects. Objects are moved by touching them and dragging them into position.
 </p>
-<h3>Toca Builders</h3>
+<h2>Toca Builders</h2>
 <p>
-<a href="https://play.google.com/store/apps/details?id=com.tocaboca.tocabuild" target="_blank">Android</a> | 
-<a href="https://itunes.apple.com/gb/app/toca-builders/id652077009?mt=8&uo=4" target="itunes_store">iOS</a>
+<h3><a href="https://play.google.com/store/apps/details?id=com.tocaboca.tocabuild" target="_blank">Android</a> | 
+<a href="https://itunes.apple.com/gb/app/toca-builders/id652077009?mt=8&uo=4" target="itunes_store">iOS</a></h3>
 </p>
 <p>Price: £1.99</p>
 <p>Difficulty: Low - Medium</p>
@@ -232,10 +232,10 @@ This game is free, and can be downloaded from either the Google Play Store (for 
 <p>
 This game costs £1.99. The game can be downloaded from either the Google Play Store (for Android tablet) or Apple App Store (for iPhone / iPad) by following the relevant link. The game does not have set objectives, but offers a variety of characters who can manipulate blocks in various ways, all with different controls. This game contains a parent’s section with detailed instructions.
 </p>
-<h3>Gravity Duck</h3>
+<h2>Gravity Duck</h2>
 <p>
-<a href="https://play.google.com/store/apps/details?id=com.noodlecake.gravityduck" target="_blank">Android</a> | 
-<a href="https://itunes.apple.com/gb/app/gravity.duck/id599272198?mt=8&uo=4" target="itunes_store">iOS</a>
+<h3><a href="https://play.google.com/store/apps/details?id=com.noodlecake.gravityduck" target="_blank">Android</a> | 
+<a href="https://itunes.apple.com/gb/app/gravity.duck/id599272198?mt=8&uo=4" target="itunes_store">iOS</a></h3>
 </p>
 <p>Price: £0.54 - £0.69</p>
 <p>Difficulty: Medium - High</p>
