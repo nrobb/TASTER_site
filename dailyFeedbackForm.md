@@ -114,63 +114,78 @@ layout: default
   <div class="col-md-8"> 
     <label class="radio-inline" for="dailyFav-0">
       <input type="radio" name="dailyFav" id="dailyFav-0" value="Tealy and Orangey" required="">
-      Tealy and Orangey
+        <img src="{{ site.url }}/images/tealy-and-orangey.png" style="width: 150px;" title="Tealy and Orangey" alt="Tealy and Orangey">
+        <p>Tealy and Orangey</p>
     </label> 
     <label class="radio-inline" for="dailyFav-1">
       <input type="radio" name="dailyFav" id="dailyFav-1" value="Multitask 2" required="">
-      Multitask 2
+        <img src="{{ site.url }}/images/multitask-2.png" style="width: 150px;" title="Multitask 2" alt="Multitask 2">
+        <p>Multitask 2</p>
     </label> 
     <label class="radio-inline" for="dailyFav-2">
       <input type="radio" name="dailyFav" id="dailyFav-2" value="Lux Ahoy" required="">
-      Lux Ahoy
+        <img src="{{ site.url }}/images/lux-ahoy.png" style="width: 150px;" title="Lux Ahoy" alt="Lux Ahoy">
+        <p>Lux Ahoy</p>
     </label> 
     <label class="radio-inline" for="dailyFav-3">
       <input type="radio" name="dailyFav" id="dailyFav-3" value="UFO Run" required="">
-      UFO Run
+        <img src="{{ site.url }}/images/ufo-run.png" style="width: 150px;" title="UFO Run" alt="UFO Run">
+        <p>UFO Run</p>
     </label> 
     <label class="radio-inline" for="dailyFav-4">
       <input type="radio" name="dailyFav" id="dailyFav-4" value="Fit it Quick" required="">
-      Fit it Quick
+        <img src="{{ site.url }}/images/fit-it-quick.png" style="width: 150px;" title="Fit it Quick" alt="Fit it Quick">
+        <p>Fit it Quick</p>
     </label> 
     <label class="radio-inline" for="dailyFav-5">
       <input type="radio" name="dailyFav" id="dailyFav-5" value="Monument Valley" required="">
-      Monument Valley
+        <img src="{{ site.url }}/images/monument-valley.png" style="width: 150px;" title="Monument Valley" alt="Monument Valley">
+        <p>Monument Valley</p>
     </label> 
     <label class="radio-inline" for="dailyFav-6">
       <input type="radio" name="dailyFav" id="dailyFav-6" value="99 Bricks Wizard Academy" required="">
-      99 Bricks Wizard Academy
+        <img src="{{ site.url }}/images/99-bricks-wizard-academy.png" style="width: 150px;" title="99 Bricks Wizard Academy" alt="99 Bricks Wizard Academy">
+        <p>99 Bricks Wizard Academy</p>
     </label> 
     <label class="radio-inline" for="dailyFav-7">
       <input type="radio" name="dailyFav" id="dailyFav-7" value="Mole Kart" required="">
-      Mole Kart
+        <img src="{{ site.url }}/images/mole-kart.png" style="width: 150px;" title="Mole Kart" alt="Mole Kart">
+        <p>Mole Kart</p>
     </label> 
     <label class="radio-inline" for="dailyFav-8">
       <input type="radio" name="dailyFav" id="dailyFav-8" value="Cordy 2" required="">
-      Cordy 2
+        <img src="{{ site.url }}/images/cordy-2.png" style="width: 150px;" title="Cordy 2" alt="Cordy 2">
+        <p>Cordy 2</p>
     </label> 
     <label class="radio-inline" for="dailyFav-9">
       <input type="radio" name="dailyFav" id="dailyFav-9" value="Shu's Garden" required="">
-      Shu's Garden
+        <img src="{{ site.url }}/images/shus-garden.png" style="width: 150px;" title="Shu's Garden" alt="Shu's Garden">
+        <p>Shu's Garden</p>
     </label> 
     <label class="radio-inline" for="dailyFav-10">
       <input type="radio" name="dailyFav" id="dailyFav-10" value="LEGO Juniors Quest" required="">
-      LEGO Juniors Quest
+        <img src="{{ site.url }}/images/lego-juniors-quest.png" style="width: 150px;" title="LEGO Juniors Quest" alt="LEGO Juniors Quest">
+        <p>LEGO Juniors Quest</p>
     </label> 
     <label class="radio-inline" for="dailyFav-11">
       <input type="radio" name="dailyFav" id="dailyFav-11" value="Dr. Panda's Handyman - Free" required="">
-      Dr. Panda's Handyman
+        <img src="{{ site.url }}/images/dr-panda-handyman.png" style="width: 150px;" title="Dr. Panda's Handyman - Free" alt="Dr. Panda's Handyman - Free">
+        <p>Dr. Panda's Handyman</p>
     </label> 
     <label class="radio-inline" for="dailyFav-12">
       <input type="radio" name="dailyFav" id="dailyFav-12" value="Amazing Alex Free" required="">
-      Amazing Alex Free
+        <img src="{{ site.url }}/images/amazing-alex-free.png" style="width: 150px;" title="Amazing Alex Free" alt="Amazing Alex Free">
+        <p>Amazing Alex Free</p>
     </label> 
     <label class="radio-inline" for="dailyFav-13">
       <input type="radio" name="dailyFav" id="dailyFav-13" value="Toca Builders" required="">
-      Toca Builders
+        <img src="{{ site.url }}/images/toca-builders.png" style="width: 150px;" title="Toca Builders" alt="Toca Builders">
+        <p>Toca Builders</p>
     </label> 
     <label class="radio-inline" for="dailyFav-14">
       <input type="radio" name="dailyFav" id="dailyFav-14" value="Gravity Duck" required="">
-      Gravity Duck
+        <img src="{{ site.url }}/images/gravity-duck.png" style="width: 150px;" title="Gravity Duck" alt="Gravity Duck">
+        <p>Gravity Duck</p>
     </label>
   </div>
 </div>
