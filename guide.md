@@ -24,6 +24,7 @@ layout: default
 <ol>
 <li>Give your child free access to all the games that you are happy for them to play.</li>
 <li>At the end of each day, you and your child should complete the <a href="{{site.url}}/dailyFeedbackForm">Daily Feedback Form</a>.</li>
+<li>It is important that your child plays as many of the games as possible. Encourage them to try all the games, and not just their favourites.</li>
 </ol>
 <h3>After the two week period, a final form will become available for you and your child to complete.</h3>
 </div>
