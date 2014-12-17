@@ -32,24 +32,28 @@ layout: default
   <div class="col-md-4">
     <label class="checkbox-inline" for="whichGames-0">
       <input type="checkbox" name="whichGames" id="whichGames-0" value="Tealy and Orangey">
-      <img src="{{ site.url }}/images/tealy-and-orangey.png" style="width: 150px;" title="Tealy and Orangey" alt="Tealy and Orangey">
-      <p>Tealy and Orangey</p>
+        <img src="{{ site.url }}/images/tealy-and-orangey.png" style="width: 150px;" title="Tealy and Orangey" alt="Tealy and Orangey">
+        <p>Tealy and Orangey</p>
     </label>
     <label class="checkbox-inline" for="whichGames-1">
       <input type="checkbox" name="whichGames" id="whichGames-1" value="Multitask 2">
-      Multitask 2
+        <img src="{{ site.url }}/images/multitask-2.png" style="width: 150px;" title="Multitask 2" alt="Multitask 2">
+        <p>Multitask 2</p>
     </label>
     <label class="checkbox-inline" for="whichGames-2">
       <input type="checkbox" name="whichGames" id="whichGames-2" value="Lux Ahoy">
-      Lux Ahoy
+        <img src="{{ site.url }}/images/lux-ahoy.png" style="width: 150px;" title="Lux Ahoy" alt="Lux Ahoy">
+        <p>Lux Ahoy</p>
     </label>
     <label class="checkbox-inline" for="whichGames-3">
       <input type="checkbox" name="whichGames" id="whichGames-3" value="UFO Run">
-      UFO Run
+        <img src="{{ site.url }}/images/ufo-run.png" style="width: 150px;" title="UFO Run" alt="UFO Run">
+        <p>UFO Run</p>
     </label>
     <label class="checkbox-inline" for="whichGames-4">
       <input type="checkbox" name="whichGames" id="whichGames-4" value="Fit it Quick">
-      Fit it Quick
+        <img src="{{ site.url }}/images/fit-it-quick.png" style="width: 150px;" title="Fit it Quick" alt="Fit it Quick">
+        <p>Fit it Quick</p>
     </label>
     <label class="checkbox-inline" for="whichGames-5">
       <input type="checkbox" name="whichGames" id="whichGames-5" value="Monument Valley">
