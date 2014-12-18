@@ -26,10 +26,11 @@ layout: form
   <div class="col-md-4">
   <div class="radio">
     <label for="Tealy and Orangey-0">
-      <input type="radio" name="Tealy and Orangey" id="Tealy and Orangey-0" value="I didn't understand this game at all" required="">
+      <input type="radio" name="Tealy and Orangey" id="Tealy and Orangey-0" value="I didn't understand this game at all" required="" data-error="I didn't understand this game at all">
       I didn't understand this game at all
     </label>
-	</div>
+    <div class="help-block with-errors"></div>
+  </div>
   <div class="radio">
     <label for="Tealy and Orangey-1">
       <input type="radio" name="Tealy and Orangey" id="Tealy and Orangey-1" value="I understood this game a little" required="">
