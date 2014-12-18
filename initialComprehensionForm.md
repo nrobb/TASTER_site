@@ -2,7 +2,7 @@
 title: Initial Comprehension Form
 layout: form
 ---
-<form class="form-horizontal" action="http://forms.brace.io/tasterproject@gmail.com" method="POST">
+<form class="form-horizontal" data-toggle="validator" action="http://forms.brace.io/tasterproject@gmail.com" method="POST">
 <fieldset>
 
 <!-- Form Name -->
