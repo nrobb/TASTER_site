@@ -1,5 +1,5 @@
 ---
 layout: post
-title: title of the post
+title: Blog coming soon ...
 ---
 Blog coming soon ...
