@@ -30,7 +30,7 @@ layout: form
       I didn't understand this game at all
     </label>
 	</div>
-  <div class="radio form-group">
+  <div class="radio">
     <label for="Tealy and Orangey-1">
       <input type="radio" name="Tealy and Orangey" id="Tealy and Orangey-1" value="I understood this game a little" required="">
       I understood this game a little
