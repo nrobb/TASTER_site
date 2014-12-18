@@ -26,10 +26,9 @@ layout: form
   <div class="col-md-4">
   <div class="radio">
     <label for="Tealy and Orangey-0">
-      <input type="radio" name="Tealy and Orangey" id="Tealy and Orangey-0" value="I didn't understand this game at all" required="" data-error="I didn't understand this game at all">
+      <input type="radio" name="Tealy and Orangey" id="Tealy and Orangey-0" value="I didn't understand this game at all" required="">
       I didn't understand this game at all
     </label>
-    <div class="help-block with-errors"></div>
   </div>
   <div class="radio">
     <label for="Tealy and Orangey-1">
