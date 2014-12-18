@@ -1,6 +1,6 @@
 ---
 title: Initial Comprehension Form
-layout: default
+layout: form
 ---
 <form class="form-horizontal" action="http://forms.brace.io/tasterproject@gmail.com" method="POST">
 <fieldset>
