@@ -441,8 +441,9 @@ layout: default
 <div class="form-group">
   <label class="col-md-4 control-label" for="initial_comp_send_button"></label>
   <div class="col-md-8">
-    <button id="initial_comp_send_button" type="submit" name="initial_comp_send_button" class="btn btn-primary">Send</button>
+    <button id="initial_comp_send_button" data-error="Oops, you didn't answer all the questions" type="submit" name="initial_comp_send_button" class="btn btn-primary">Send</button>
     <button id="initial_comp_reset_button" type="reset" name="initial_comp_reset_button" class="btn btn-default">Reset</button>
+    <div class="help-block with-errors"></div>
   </div>
 </div>
 
