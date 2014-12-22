@@ -3,7 +3,7 @@ layout: defaultWithFooter
 title: TASTER blog
 ---
 
-{{post.url}}
+{% for post in site.posts %}
 <div class="row">
 <div class="col-md-10">
 <h3><a href="{{post.url}}">{{ post.title }}</a></h3>
