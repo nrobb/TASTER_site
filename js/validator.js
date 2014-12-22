@@ -105,6 +105,7 @@
           : $.Event('valid.bs.validator', {relatedTarget: $el[0], detail: prevErrors})
 
         self.$element.trigger(e)
+        console.log("test");
       }
 
       self.toggleSubmit()
