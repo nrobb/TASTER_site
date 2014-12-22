@@ -108,7 +108,6 @@
       }
 
       self.toggleSubmit()
-      console.log("test");
 
       self.$element.trigger($.Event('validated.bs.validator', {relatedTarget: $el[0]}))
     })
@@ -144,6 +143,7 @@
           .fail(function (jqXHR, textStatus, error) { errors.push(getErrorMessage('remote') || error) })
           .always(function () { deferred.resolve(errors)})
       })
+      console.log("test");
     } else deferred.resolve(errors)
 
     return deferred.promise()
