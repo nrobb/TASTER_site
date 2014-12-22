@@ -92,7 +92,12 @@
     this.runValidators($el).done(function (errors) {
       $el.data('bs.validator.errors', errors)
 
-      errors.length ? self.showErrors($el) : self.clearErrors($el)
+      if (errors.length) {
+        self.showErrors($el);
+        alert("Oops, you didn't answer all the questions. Please answer the questions highlighted in red and click Send again");
+      } else {
+        self.clearErrors($el);
+      }
 
       if (!prevErrors || errors.toString() !== prevErrors.toString()) {
         e = errors.length
@@ -172,7 +177,6 @@
 
       $group.addClass('has-error')
     })
-    //alert("Oops, you didn't answer all the questions. Please answer the questions highlighted in red and click Send again")
   }
 
   Validator.prototype.clearErrors = function ($el) {
