@@ -94,7 +94,7 @@
 
       if (errors.length) {
         self.showErrors($el);
-        alert("Oops, you didn't answer all the questions. Please answer the questions highlighted in red and click Send again");
+        //alert("Oops, you didn't answer all the questions. Please answer the questions highlighted in red and click Send again");
       } else {
         self.clearErrors($el);
       }
