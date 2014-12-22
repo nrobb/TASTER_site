@@ -94,7 +94,6 @@
 
       if (errors.length) {
         self.showErrors($el);
-        //alert("Oops, you didn't answer all the questions. Please answer the questions highlighted in red and click Send again");
       } else {
         self.clearErrors($el);
       }
@@ -142,7 +141,6 @@
         $.get($el.data('remote'), [$el.attr('name'), $el.val()].join('='))
           .fail(function (jqXHR, textStatus, error) { errors.push(getErrorMessage('remote') || error) })
           .always(function () { deferred.resolve(errors)})
-        console.log("test");
       })
     } else deferred.resolve(errors)
 
