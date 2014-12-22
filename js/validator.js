@@ -138,12 +138,12 @@
     }, this))
 
     if (!errors.length && $el.val() && $el.data('remote')) {
+      console.log("test");
       this.defer($el, function () {
         $.get($el.data('remote'), [$el.attr('name'), $el.val()].join('='))
           .fail(function (jqXHR, textStatus, error) { errors.push(getErrorMessage('remote') || error) })
           .always(function () { deferred.resolve(errors)})
       })
-      console.log("test");
     } else deferred.resolve(errors)
 
     return deferred.promise()
