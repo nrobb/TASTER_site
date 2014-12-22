@@ -172,7 +172,7 @@
 
       $group.addClass('has-error')
     })
-    alert("Oops, you didn't answer all the questions. Please answer the questions highlighted in red and click Send again")
+    //alert("Oops, you didn't answer all the questions. Please answer the questions highlighted in red and click Send again")
   }
 
   Validator.prototype.clearErrors = function ($el) {
