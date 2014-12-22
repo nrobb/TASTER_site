@@ -1,5 +1,5 @@
 ---
-laytout: post
-title: Blog comming soon ...
+layout: post
+title: Blog coming soon ...
 ---
 Blog entry text
