@@ -1,34 +1,34 @@
 ---
 title: Daily Feedback Form
-layout: default
+layout: default_it
 ---
 <form class="form-horizontal" data-toggle="validator" action="http://forms.brace.io/tasterproject@gmail.com" method="POST">
 <fieldset>
 
 <!-- Form Name -->
-<legend>Daily Feedback Form. When you've completed this form, don't forget to click the Submit button at the bottom.</legend>
+<legend>Modulo Feedback Quotidiano. Quando hai compilato questo modulo, non dimenticarti di cliccare in fondo sul tasto submit.</legend>
 
 <!-- Text input-->
 <div class="form-group">
-  <label class="col-md-4 control-label" for="id">Your ID number</label>  
+  <label class="col-md-4 control-label" for="id">Il numero di ID</label>
   <div class="col-md-8">
   <input id="id" name="id" type="text" pattern="^[0-9]{4}$" data-error="Your ID is a 4 digit number" placeholder="id number" class="form-control input-md" required="">
-  <span class="help-block with-errors">Your ID number will have been sent to you by email</span>  
+  <span class="help-block with-errors">Il numero di ID vi hanno inviato per e-mail</span>
   </div>
 </div>
 
 <!-- Text input-->
 <div class="form-group">
-  <label class="col-md-4 control-label" for="timespent">How long did you play games for today?</label>  
+  <label class="col-md-4 control-label" for="timespent">Per quanto tempo hai giocato oggi?</label>
   <div class="col-md-8">
-  <input id="timespent" name="timespent" type="text" placeholder="e.g. 2 hours" class="form-control input-md" required="">
+  <input id="timespent" name="timespent" type="text" placeholder="ad esempio 2 ore" class="form-control input-md" required="">
     
   </div>
 </div>
 
 <!-- Multiple Checkboxes (inline) -->
 <div class="form-group">
-  <label class="col-md-4 control-label" for="whichGames">Which games did you play today? (Select each game you played)</label>
+  <label class="col-md-4 control-label" for="whichGames">Oggi con quale gioco hai giocato? (seleziona ogni gioco con cui hai giocato)</label>
   <div class="col-md-8">
     <label class="checkbox-inline" for="whichGames-0">
       <input type="checkbox" name="whichGames" id="whichGames-0" value="Tealy and Orangey">
@@ -110,78 +110,78 @@ layout: default
 
 <!-- Multiple Radios (inline) -->
 <div class="form-group">
-  <label class="col-md-4 control-label" for="dailyFav">Which game did you enjoy most today? (Select just one game)</label>
-  <div class="col-md-8"> 
+  <label class="col-md-4 control-label" for="dailyFav">Quale gioco ti ha divertito di più oggi? (seleziona un solo gioco)</label>
+  <div class="col-md-8">
     <label class="radio-inline" for="dailyFav-0">
       <input type="radio" name="dailyFav" id="dailyFav-0" value="Tealy and Orangey" required="">
         <img src="{{ site.url }}/images/tealy-and-orangey.png" style="width: 150px;" title="Tealy and Orangey" alt="Tealy and Orangey">
         <p>Tealy and Orangey</p>
-    </label> 
+    </label>
     <label class="radio-inline" for="dailyFav-1">
       <input type="radio" name="dailyFav" id="dailyFav-1" value="Multitask 2" required="">
         <img src="{{ site.url }}/images/multitask-2.png" style="width: 150px;" title="Multitask 2" alt="Multitask 2">
         <p>Multitask 2</p>
-    </label> 
+    </label>
     <label class="radio-inline" for="dailyFav-2">
       <input type="radio" name="dailyFav" id="dailyFav-2" value="Lux Ahoy" required="">
         <img src="{{ site.url }}/images/lux-ahoy.png" style="width: 150px;" title="Lux Ahoy" alt="Lux Ahoy">
         <p>Lux Ahoy</p>
-    </label> 
+    </label>
     <label class="radio-inline" for="dailyFav-3">
       <input type="radio" name="dailyFav" id="dailyFav-3" value="UFO Run" required="">
         <img src="{{ site.url }}/images/ufo-run.png" style="width: 150px;" title="UFO Run" alt="UFO Run">
         <p>UFO Run</p>
-    </label> 
+    </label>
     <label class="radio-inline" for="dailyFav-4">
       <input type="radio" name="dailyFav" id="dailyFav-4" value="Fit it Quick" required="">
         <img src="{{ site.url }}/images/fit-it-quick.png" style="width: 150px;" title="Fit it Quick" alt="Fit it Quick">
         <p>Fit it Quick</p>
-    </label> 
+    </label>
     <label class="radio-inline" for="dailyFav-5">
       <input type="radio" name="dailyFav" id="dailyFav-5" value="Monument Valley" required="">
         <img src="{{ site.url }}/images/monument-valley.png" style="width: 150px;" title="Monument Valley" alt="Monument Valley">
         <p>Monument Valley</p>
-    </label> 
+    </label>
     <label class="radio-inline" for="dailyFav-6">
       <input type="radio" name="dailyFav" id="dailyFav-6" value="99 Bricks Wizard Academy" required="">
         <img src="{{ site.url }}/images/99-bricks-wizard-academy.png" style="width: 150px;" title="99 Bricks Wizard Academy" alt="99 Bricks Wizard Academy">
         <p>99 Bricks Wizard Academy</p>
-    </label> 
+    </label>
     <label class="radio-inline" for="dailyFav-7">
       <input type="radio" name="dailyFav" id="dailyFav-7" value="Mole Kart" required="">
         <img src="{{ site.url }}/images/mole-kart.png" style="width: 150px;" title="Mole Kart" alt="Mole Kart">
         <p>Mole Kart</p>
-    </label> 
+    </label>
     <label class="radio-inline" for="dailyFav-8">
       <input type="radio" name="dailyFav" id="dailyFav-8" value="Cordy 2" required="">
         <img src="{{ site.url }}/images/cordy-2.png" style="width: 150px;" title="Cordy 2" alt="Cordy 2">
         <p>Cordy 2</p>
-    </label> 
+    </label>
     <label class="radio-inline" for="dailyFav-9">
       <input type="radio" name="dailyFav" id="dailyFav-9" value="Shu's Garden" required="">
         <img src="{{ site.url }}/images/shus-garden.png" style="width: 150px;" title="Shu's Garden" alt="Shu's Garden">
         <p>Shu's Garden</p>
-    </label> 
+    </label>
     <label class="radio-inline" for="dailyFav-10">
       <input type="radio" name="dailyFav" id="dailyFav-10" value="LEGO Juniors Quest" required="">
         <img src="{{ site.url }}/images/lego-juniors-quest.png" style="width: 150px;" title="LEGO Juniors Quest" alt="LEGO Juniors Quest">
         <p>LEGO Juniors Quest</p>
-    </label> 
+    </label>
     <label class="radio-inline" for="dailyFav-11">
       <input type="radio" name="dailyFav" id="dailyFav-11" value="Dr. Panda's Handyman - Free" required="">
         <img src="{{ site.url }}/images/dr-panda-handyman.png" style="width: 150px;" title="Dr. Panda's Handyman - Free" alt="Dr. Panda's Handyman - Free">
         <p>Dr. Panda's Handyman</p>
-    </label> 
+    </label>
     <label class="radio-inline" for="dailyFav-12">
       <input type="radio" name="dailyFav" id="dailyFav-12" value="Amazing Alex Free" required="">
         <img src="{{ site.url }}/images/amazing-alex-free.png" style="width: 150px;" title="Amazing Alex Free" alt="Amazing Alex Free">
         <p>Amazing Alex Free</p>
-    </label> 
+    </label>
     <label class="radio-inline" for="dailyFav-13">
       <input type="radio" name="dailyFav" id="dailyFav-13" value="Toca Builders" required="">
         <img src="{{ site.url }}/images/toca-builders.png" style="width: 150px;" title="Toca Builders" alt="Toca Builders">
         <p>Toca Builders</p>
-    </label> 
+    </label>
     <label class="radio-inline" for="dailyFav-14">
       <input type="radio" name="dailyFav" id="dailyFav-14" value="Gravity Duck" required="">
         <img src="{{ site.url }}/images/gravity-duck.png" style="width: 150px;" title="Gravity Duck" alt="Gravity Duck">
@@ -192,9 +192,7 @@ layout: default
 
 <!-- Button (Double) -->
 <div class="form-group">
-  <label class="col-md-9 control-label" for="initial_comp_send_button">Click Submit when you have answered all the questions. 
-  	You should then see a confirmation page. If you don't see the confirmation page, make sure you've answered all the questions. 
-  	Any questions you've missed out will be highlighted in red.
+  <label class="col-md-9 control-label" for="initial_comp_send_button">
   </label>
   <div class="col-md-3">
     <button id="dailyFeedbackSendButton" type="submit" name="dailyFeedbackSendButton" class="btn btn-primary">Submit</button>
