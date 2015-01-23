@@ -1,3 +1,6 @@
 When thinking about gameplay design, one important issue to consider is how difficult the game is. For the TASTER project, this is particularly important, for two reasons:
 
 1. In order to maximise the training our game provides, players must be highly motivated to do the training (i.e. play the game). And the difficulty level of a game is a factor in whether or not people are motivated to play the game. For example, I haven't spent much time playing either [Geometry Dash](http://youtu.be/o4YACF6Y8yQ) or [LEGO Juniors Quest](http://youtu.be/hfOmzYw95L8), the former because it's too hard, and the latter because it's too easy.
+2. Some research suggests that computerised cognitive training works best when the difficulty of the training is adapted to suit the individual requirements of the person doing the training.
+
+
