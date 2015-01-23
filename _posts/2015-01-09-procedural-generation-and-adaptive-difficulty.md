@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Procedural Generation and Adaptive Difficulty
+title: Procedural generation and adaptive difficulty
 post_author: Nigel Robb
 ---
 When thinking about gameplay design, one important issue to consider is how difficult the game is. For the TASTER project, this is particularly important, for two reasons:
