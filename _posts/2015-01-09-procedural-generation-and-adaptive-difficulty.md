@@ -1,3 +1,8 @@
+---
+layout: post
+title: Procedural Generation and Adaptive Difficulty
+post_author: Nigel Robb
+---
 When thinking about gameplay design, one important issue to consider is how difficult the game is. For the TASTER project, this is particularly important, for two reasons:
 
 1. In order to maximise the training our game provides, players must be highly motivated to do the training (i.e. play the game). And the difficulty level of a game is a factor in whether or not people are motivated to play the game. For example, I haven't spent much time playing either [Geometry Dash](http://youtu.be/o4YACF6Y8yQ) or [LEGO Juniors Quest](http://youtu.be/hfOmzYw95L8), the former because it's too hard, and the latter because it's too easy.
