@@ -7,7 +7,7 @@ In another [post]({{ site.url }}/2014/12/23/human-centred-design/), I discussed 
 
 What I'm doing, then, is accepting that design changes will occur even after I've started to program the game. And this is what makes my approach to software development *agile*.
 
-[Agile software development](http://www.agilemanifesto.org/) is a group of approaches to software development that share some common features. Primarily, agile methods aim to produce working software quickly (like the prototypes I mentioned above), to maximise customer collaboration, and to *embrace changes to the design* of the software, even after development is underway.
+[Agile software development](http://www.agilemanifesto.org/) is a group of methodologies that share some common features. Primarily, agile methods aim to produce working software quickly (like the prototypes I mentioned above), to maximise customer collaboration, and to *embrace changes to the design* of the software, even after development is underway.
 
 I don't subscribe to one particular style of agile development, but I tend to use quite a few techniques from the agile methodology known as [Extreme Programming (XP)](http://xprogramming.com/what-is-extreme-programming/). These are:
 
