@@ -1,6 +1,6 @@
 ---
 layout: post
-title: User-centred Design
+title: Human-centred Design
 post_author: Nigel Robb
 ---
 Designing a great game is a difficult process. But when the game is targeted at players with very unique needs, it's even harder. The best way to overcome this problem is to treat the design as an iterative process and to involve the end-users throughout.
