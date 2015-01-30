@@ -5,7 +5,7 @@ post_author: Nigel Robb
 ---
 In another [post]({{ site.url }}/2014/12/23/human-centred-design/), I discussed the human-centred design process being used in the TASTER project. The idea is simple: we use the preferences and needs of the people who'll be playing our game to dictate what the game will actually be like. As part of this process, we'll have play testing sessions in which kids with PWS try out a prototype of the game. Now it's highly unlikely that every kid will absolutely love the first prototype I produce. In a sense, I expect the prototypes to (partially) fail. Actually, *I want them to fail* (again, only partially!), because that's the quickest way to learn what I need to change in the next phase of development.
 
-What I'm doing, then, is accepting that design changes will occur even after I've started to program the game. And this, in a nutshell, is what makes my approach to software development *agile*.
+What I'm doing, then, is accepting that design changes will occur even after I've started to program the game. And this is what makes my approach to software development *agile*.
 
 [Agile software development](http://www.agilemanifesto.org/) is a group of approaches to software development that share some common features. Primarily, agile methods aim to produce working software quickly (like the prototypes I mentioned above), to maximise customer collaboration, and to *embrace changes to the design* of the software, even after development is underway.
 
