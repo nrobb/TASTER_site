@@ -13,4 +13,4 @@ As [this article](http://www.gamasutra.com/view/feature/187126/) by game develop
 
 One of the great things about mobile devices is the multitude of ways you can interact with them: tapping, pressing, swiping, pinching, shaking / moving the device. And if you've ever watched a very young child play with a tablet, you'll know just how intuitive these gestures can be.
 
-Our [user-centred design process](/2014/12/23/user-centred-design/) will confirm or deny my suspicions about virtual D-pads. In the meantime, I'll try to come up with as many different ways to interact with a touchscreen device as I can.
+Our [human-centred design process](/2014/12/23/human-centred-design/) will confirm or deny my suspicions about virtual D-pads. In the meantime, I'll try to come up with as many different ways to interact with a touchscreen device as I can.
