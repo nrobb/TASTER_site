@@ -9,7 +9,7 @@ What I'm doing, then, is accepting that design changes will occur even after I'v
 
 [Agile software development](http://www.agilemanifesto.org/) refers to a group of methodologies that share some common features. Primarily, agile methods aim to produce working software quickly (like the prototypes I mentioned above), to maximise customer collaboration, and to embrace changes to the design of the software, even after development is underway.
 
-I don't subscribe to one particular style of agile development, but I tend to use quite a few techniques from the agile methodology known as [Extreme Programming (XP)](http://xprogramming.com/what-is-extreme-programming/). These are:
+I don't subscribe to one particular style of agile development, but I tend to use quite a few techniques from the agile methodology known as [Extreme Programming](http://xprogramming.com/what-is-extreme-programming/). These are:
 
 1. Simple, continuous design. I think of myself as designing right through the development process. Even at the final stages, I'm prepared to make changes to the design of the game.
 2. Test-driven development (TDD). A computer program is usually made up of a large number of small, self-contained modules or units. For each of these units, you can write a test (called a unit test) to check that that module works. TDD involves writing these tests *first*, before you've written the module being tested. Initially, the test will obviously fail (because the module being tested doesn't exist). The programmer's job is then to write just enough code to make the test pass.
