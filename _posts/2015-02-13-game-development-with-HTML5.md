@@ -5,7 +5,7 @@ post_author: Nigel Robb
 ---
 I've chosen to develop the TASTER game using HTML5. HTML5 includes a new canvas element, which is a container for graphics and is perfect for games. I've chosen HTML5 for a few reasons:
 
-1. HTML5 games are actually programmed in JavaScript, which is my favourite programming language, and the one I have most experience with.
+1. HTML5 games are actually programmed in JavaScript, which is the programming langauge I have most experience with (it's also my favourite).
 2. Since webpages are also made from HTML5 and JavaScript, an HTML5 game can easily be hosted as a web app. This is great, because it means that people can play the game immediately in their web browser, without having to download any software.
 3. A variety of platforms exist (e.g. [CocoonJS](https://www.ludei.com/cocoonjs/)) which can deploy HTML5 applications on mobile devices, meaning that an HTML5 game can easily be converted into an almost native application for IOS or Android.
 
