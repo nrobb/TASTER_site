@@ -9,7 +9,10 @@ The children who took part in the design of the game expressed preferences for g
 
 The game presents the player with a screen full of creatures. Here’s what they look like:
 
-![Alt text]({{site.url}}/taster-game-images/images_s-01-2.png)
+![]({{site.url}}/taster-game-images/images_s-01-2.png)
+![]({{site.url}}/taster-game-images/images_s-01-3.png)
+![]({{site.url}}/taster-game-images/images_s-01-4.png)
+![]({{site.url}}/taster-game-images/images_s-01.png)
 
 You’ll notice that there are two distinguishing features: each creature has a colour and a shape. This is the key to the task switching in the game – sometimes the player has to collect creatures based on their colour (i.e. ignore the red and collect the blue), while at other times they have to focus on the shape (i.e. ignore the cuboids and collect the pyramids). So the game forces the player to constantly switch how they conceptualise the creatures.
 
