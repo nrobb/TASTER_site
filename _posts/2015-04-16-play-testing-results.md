@@ -3,7 +3,7 @@ layout: post
 title: Play testing feedback
 post_author: Nigel Robb
 ---
-Our first prototype game is currently being play tested, and we have some encouraging initial feedback:
+Our first [prototype game](http://nrobb.github.io/taster/) is currently being play tested, and we have some encouraging initial feedback:
 
 Children found the prototype enjoyable, and showed good levels of comprehension of the overall gameplay. Also, we found that the children had a good level of understanding of the specific switching tasks within the game: when the target indicating which creature they should collect changed, children were generally able to make the switch to the new target easily.
 
