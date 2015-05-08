@@ -15,7 +15,7 @@ There have been several models of executive functions proposed, but [the most wi
 
 It is important to note that, according to this model, the three functions both share a common core (i.e. they involve a common underlying ability) but also show some diversity (i.e. there are some extra abilities specific to some executive functions).
 
-In recent years, [a number of studies](http://link.springer.com/article/10.3758%2Fs13423-013-0418-z) have suggested that playing action video games can lead to improved executive functioning. This research is not without (critics)[ http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3171788/], but [ongoing work](http://playiq.com/) will hopefully address some of these criticisms.
+In recent years, [a number of studies](http://link.springer.com/article/10.3758%2Fs13423-013-0418-z) have suggested that playing action video games can lead to improved executive functioning. This research is not without [critics]( http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3171788/], but [ongoing work](http://playiq.com/) will hopefully address some of these criticisms.
 
 Meanwhile, I’ve found it extremely useful to look at typical action video games and analyse the features they offer which seem most likely to be responsible for this improvement in executive functioning. In other words, what exactly is it about these games that might give people who play them superior executive functioning?
 
