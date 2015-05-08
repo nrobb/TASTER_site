@@ -8,9 +8,10 @@ The aim of the TASTER game is to improve the task switching ability of the child
 Task switching – also sometimes called ‘shifting’ – is an executive function. Executive functions are general control processes that regulate human cognition; for example, when we resist the urge to eat a lot of cake, our executive functioning is involved.
 
 There have been several models of executive functions proposed, but (the most widely-accepted)[ http://cdp.sagepub.com/content/21/1/8.abstract] identifies three such functions:
--Shifting: allows us to move flexibly from one mental set or task to another.
--Inhibition: allows us to override dominant responses or impulses.
--Updating: allows us to constantly add/delete working memory contents.
+
+* Shifting: allows us to move flexibly from one mental set or task to another.
+* Inhibition: allows us to override dominant responses or impulses.
+* Updating: allows us to constantly add/delete working memory contents.
 
 It is important to note that, according to this model, the three functions both share a common core (i.e. they involve a common underlying ability) but also show some diversity (i.e. there are some extra abilities specific to some executive functions).
 
