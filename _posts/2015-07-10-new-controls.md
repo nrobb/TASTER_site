@@ -3,7 +3,7 @@ layout: post
 title: New controls
 post_author: Nigel Robb
 ---
-The current version of TASTER has been set up to trial different control systems, so that I can gauge which system children find easiest to use.
+The current version of TASTER has been set up to trial different control systems, so that I can find out which system children find easiest to use.
 
 The first new control system uses a virtual joystick. Use your finger or thumb to move the joystick in any direction, and your character will move in the same direction:
 
