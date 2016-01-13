@@ -8,7 +8,7 @@ Video games are hugely popular, [with around 70% of Britons playing them](http:/
 Fortunately, [guidelines]( http://gameaccessibilityguidelines.com/) [exist]( http://www.includification.com/) to help game developers do just that. These guidelines offer well-founded advice for overcoming gamers’ disabilities in 4 key areas: cognitive, vision, hearing and mobility. As such guidelines make clear, the majority of these problems can be overcome through design. For example:
 
 - Design your game to use the simplest possible control system (cognitive, motor)
-- Allow controls to be customised so players can use different buttons for different tasks (motor)
+- Allow controls to be customised so players can use different buttons other than the default (motor)
 - Allow the game to be paused at any time (cognitive)
 - Ensure that no essential information is conveyed by colour alone (visual)
 
