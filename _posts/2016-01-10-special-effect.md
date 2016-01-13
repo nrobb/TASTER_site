@@ -12,7 +12,7 @@ Fortunately, [guidelines]( http://gameaccessibilityguidelines.com/) [exist]( htt
 - Allow the game to be paused at any time (cognitive)
 - Ensure that no essential information is conveyed by colour alone (visual)
 
-However, some motor disabilities cannot be overcome in this way. Consider a person who cannot use any kind of traditional game controls at all, perhaps because they can’t control any part of their body very well. In addition, many people have the cognitive, visual and auditory abilities to play mainstream video games, but simply can’t use a conventional game controller.
+However, not all mobility problems can be eradicated through game design. Consider a person who cannot use any kind of traditional game controls at all, even a simple button or touchscreen, perhaps because they can’t control any part of their body very well. In addition, many people have the cognitive, visual and auditory abilities to play mainstream video games, but simply can’t use a conventional game controller.
 
 [Special Effect]( http://www.specialeffect.org.uk/) is a charity, founded by [Mick Donegan]( https://twitter.com/MickDonegan), which seeks to address these situations, by providing customised and novel game controllers for people with all kinds of disability. They work with people on an individual basis, assessing their needs, and providing some really ingenious solutions to their problems. This could be anything from a simple stand to keep a game controller steady, through joystick controllers with larger buttons, to games which can be controlled by eye movements, voice commands, or facial gestures.
 
