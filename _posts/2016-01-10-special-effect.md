@@ -5,7 +5,7 @@ post_author: Nigel Robb
 ---
 Video games are hugely popular, [with around 70% of Britons playing them](http://www.theguardian.com/technology/2014/sep/17/women-video-games-iab), and the global games market [expected to be worth over $100 billion by 2017]( http://www.polygon.com/2015/4/22/8471789/worldwide-video-games-market-value-2015). According to some sources, [20% of casual gamers have some form of disability]( http://gameaccessibilityguidelines.com/why-and-how). These numbers make it obvious that making video games accessible for people with disabilities is an important and worthwhile task.
 
-Fortunately, [guidelines]( http://gameaccessibilityguidelines.com/) [exist]( http://www.includification.com/) to help game developers do just that. These guidelines offer well-founded advice for overcoming gamers’ disabilities in 4 key areas: cognitive, vision, hearing and mobility. As such guidelines make clear, the majority of these problems can be overcome at the design phase. For example:
+Fortunately, [guidelines]( http://gameaccessibilityguidelines.com/) [exist]( http://www.includification.com/) to help game developers do just that. These guidelines offer well-founded advice for overcoming gamers’ disabilities in 4 key areas: cognitive, vision, hearing and mobility. As such guidelines make clear, the majority of these problems can be overcome through design. For example:
 
 - Design your game to use the simplest possible control system (cognitive, motor)
 - Allow controls to be customised so players can use different buttons for different tasks (motor)
