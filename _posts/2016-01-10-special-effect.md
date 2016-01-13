@@ -18,4 +18,9 @@ However, some motor disabilities cannot be overcome in this way. Consider a pers
 
 You can see some of this really amazing technology in the video below. And most importantly, you can see just how much joy it can bring to people with disabilities to do something that so many of us take for granted – play a video game.
 
-<iframe width="560" height="315" class="embed-responsive-item" src="//www.youtube.com/embed/oRjY2XGacNA"></iframe>
+<div class="container" style="max-width: 700px; height: auto;"
+<!-- 4:3 aspect ratio -->
+<div class="embed-responsive embed-responsive-4by3">
+  <iframe class="embed-responsive-item" src="//www.youtube.com/embed/oRjY2XGacNA"></iframe>
+</div>
+</div>
