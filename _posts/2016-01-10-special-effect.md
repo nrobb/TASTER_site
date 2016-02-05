@@ -17,9 +17,8 @@ However, not all mobility problems can be eradicated through game design. Consid
 [Special Effect]( http://www.specialeffect.org.uk/) is a charity, founded by [Mick Donegan]( https://twitter.com/MickDonegan), which seeks to address these situations, by providing customised and novel game controllers for people with all kinds of disability. They work with people on an individual basis, assessing their needs, and providing some really ingenious solutions to their problems. This could be anything from a simple stand to keep a game controller steady, through joystick controllers with larger buttons, to games which can be controlled by eye movements, voice commands, or facial gestures.
 
 You can see some of this really amazing technology in the video below. And most importantly, you can see just how much joy it can bring to people with disabilities to do something that so many of us take for granted – play a video game. You can find out more about the great work they do [here]( http://www.specialeffect.org.uk/).
-<div class="container" style="max-width: 700px; height: auto;"
+
 <!-- 4:3 aspect ratio -->
 <div class="embed-responsive embed-responsive-4by3">
   <iframe class="embed-responsive-item" src="//www.youtube.com/embed/hKLNrCivOzw"></iframe>
-</div>
 </div>
