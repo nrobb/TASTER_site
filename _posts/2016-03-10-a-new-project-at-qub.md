@@ -7,5 +7,5 @@ Below is some information on a new project at Queen's University Belfast, explor
 
 <!-- 4:3 aspect ratio -->
 <div class="embed-responsive embed-responsive-4by3">
-  <iframe class="embed-responsive-item" src="//www.youtube.com/watch?v=q8-k1FtsFyE"></iframe>
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/q8-k1FtsFyE"></iframe>
 </div>
