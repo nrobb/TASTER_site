@@ -6,5 +6,5 @@ url: "http://tasterproject.com"
 paginate: 10
 
 markdown: kramdown
+highlighter: rouge
 permalink: pretty
-pygments: true
