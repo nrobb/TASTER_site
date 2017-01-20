@@ -7,10 +7,10 @@ In the development of our game, we're working with some very talented artists. O
 
 Check out Francesca's work below, and don't forget to visit her [blog](http://francesca-jane-kennedy-animation.tumblr.com/) to see more.
 
-![]({{site.url}}/images/concept-art/francesca-kennedy/robots)
+![]({{site.url}}/images/concept-art/francesca-kennedy/robots.jpg)
 
-![]({{site.url}}/images/concept-art/francesca-kennedy/squirrel-background)
+![]({{site.url}}/images/concept-art/francesca-kennedy/squirrel-background.jpg)
 
-![]({{site.url}}/images/concept-art/francesca-kennedy/aliens)
+![]({{site.url}}/images/concept-art/francesca-kennedy/aliens.jpg)
 
-![]({{site.url}}/images/concept-art/francesca-kennedy/dragons)
+![]({{site.url}}/images/concept-art/francesca-kennedy/dragons.jpg)
