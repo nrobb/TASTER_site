@@ -7,8 +7,8 @@ In the development of our game, we're working with some very talented artists. O
 
 Check out Eleonore's work below, and don't forget to visit her [website](https://eleonoredambre.com/) to see more.
 
-![]({{site.url}}/images/concept-art/eleonore-dambre/bugs.jpg)
+![]({{site.url}}/images/concept-art/eleonore-dambre/bugs.png)
 
-![]({{site.url}}/images/concept-art/eleonore-dambre/fish.jpg)
+![]({{site.url}}/images/concept-art/eleonore-dambre/fish.png)
 
-![]({{site.url}}/images/concept-art/eleonore-dambre/shrooms.jpg)
+![]({{site.url}}/images/concept-art/eleonore-dambre/shrooms.png)
